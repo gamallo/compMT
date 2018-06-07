@@ -1,0 +1,104 @@
+#!/usr/bin/perl -w
+
+##Toma como entrada a saída do FreeLing e devolve um texto etiquetado com algumas modificaçoes: verbos compostos, elimina determinantes e pronomes, etc.
+
+$file = shift(@ARGV);
+open (FILE, $file) or die "O ficheiro n�o pode ser aberto: $!\n";
+
+
+while (my $line = <FILE>) {
+   chomp($line);
+   my ($mw, $cat) = split ("_", $line);
+   if (!$mw || $mw =~ /^no@/){next}
+   $mw =~ s/@/_/g;
+   (@mw) = split ("_", $mw);
+   $First{$mw[0]}++;
+   $cat = "N" if ($cat && $cat eq "NOUN");
+   $cat = "V" if ($cat && $cat eq "VERB");
+   if ($mw =~ /_se$/) {
+    ($verb, $se) = ($mw =~ /^([^_]+)_(se)$/);
+    $mw1 = $se . "_" . $verb;
+
+    $MW{$mw1} = $cat if ($mw1);
+    print STDERR "--#$mw1# - #$cat#\n";
+   }
+   elsif ($mw =~ /_se_/) {
+    ($verb, $se, $rest) = ($mw =~ /^([^_]+)_(se)_(.*)$/);
+    $mw2 = $se . "_" . $verb  . "_" . $rest  ;
+
+    $MW{$mw2} = $cat if ($mw2);
+    print STDERR "--#$mw2# - #$cat#\n";
+
+   }
+   
+   $MW{$mw} = $cat;
+   print STDERR "#$mw# - #$cat#\n";
+   
+
+   $mw1="";
+   $mw2="";
+}
+
+
+$separador = "Fp\n" ;
+$/ = $separador;
+
+$window=3;
+while (my $sent = <STDIN>) {
+  my $Found=0;
+  my @sent = split ('\n', $sent);
+  #print STDERR "#$sent#\n";
+   for ($i=0;$i<=$#sent;$i++) {
+    if (!$sent[$i]){next}
+    ($pal, $lema, $tag) = split(" ", $sent[$i]);
+    %Found=();
+    $Found=0;
+
+    $Pal[$i] = $pal;
+    $init = $i + 1;
+    $last = $i + $window;
+    $target = $lema;
+    if ($First{$lema}) {
+	for ($j=$init;$j<=$last;$j++) {
+	    ($pal_i, $lema_i, $tag_i) = split(" ", $sent[$j]);
+           
+            $target = $target . "_" . $lema_i  ;
+	    		print STDERR "---------------> #$target#\n";
+	    if ($MW{$target}) {
+		$Found{$target} = $j;
+		$Found=1;
+		print STDERR "---> #$target#\n";
+	    }
+	}
+    }
+    if ($Found) {
+      foreach $mw  (sort {$Found{$b} <=>
+		        $Found{$a} }
+		  keys %Found ) {
+       $Lema[$i] = $mw;
+       $Pal[$i] = $mw;
+       $Tag[$i] = "NC00000" if ($MW{$mw} eq "N");
+       $Tag[$i] = "VM0000" if ($MW{$mw} eq "V");
+       $i=$i+$j;
+       last;
+      }
+    }
+    else {
+      $Lema[$i] = $lema;
+      $Tag[$i] = $tag;
+     }
+     #print STDERR "$i\r";
+   
+  }
+
+
+ if ($Found) {  
+   for ($i=0;$i<=$#Pal;$i++) {
+       print "$Pal[$i] $Lema[$i] $Tag[$i]\n" if $Pal[$i]);
+  }
+ }
+  undef @Pal;
+  undef @Lema;
+  undef @Tag;
+  undef %Found;
+}
