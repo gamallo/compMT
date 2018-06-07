@@ -1,0 +1,9 @@
+{"source": "the student accounted for his absence", "target": "estudiante justificar ausencia"}	justificar	pos
+{"source": "the student accounted for the loss of the book.", "target": "estudiante explicar pérdida de libro"}	explicar	pos
+{"source": "the thief accounted for the missing money", "target": "caco dar cuenta de grande moneda"}	dar cuenta de	pos
+{"source": "the book acts as an example", "target": "libro servir de ejemplo"}	servir de	pos
+{"source": "the man acts as a manager ", "target": "hombre hacer de gestor"}	hacer de	pos
+{"source": "a lawyer acts for the client", "target": "abogado representar a cliente"}	representar a	pos
+{"source": "the state acted on the evidence", "target": "estado responder a señal"}	reaccionar ante	neg
+{"source": "the drug acted on the immune system", "target": "droga reaccionar a sistema inmune"}	actuar sobre	neg
+{"source": "the governor acted on the advice of the prime minister", "target": "gobernador responder a consejo de principal ministro"}	responder a	pos

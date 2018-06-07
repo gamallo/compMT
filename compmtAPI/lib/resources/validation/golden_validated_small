@@ -1,0 +1,1126 @@
+{"source": "English", "target": ""}	Spanish verb	neg
+{"source": "the student accounted for his absence", "target": "estudiante justificar ausencia"}	justificar	pos
+{"source": "the student accounted for the loss of the book.", "target": "estudiante dar cuenta de pérdida de libro"}	explicar	neg
+{"source": "the thief accounted for the missing money", "target": "caco dar cuenta de grande moneda"}	dar cuenta de	pos
+{"source": "the book acts as an example", "target": "libro servir de ejemplo"}	servir de	pos
+{"source": "the man acts as a manager", "target": "hombre hacer de gestor"}	hacer de	pos
+{"source": "a lawyer acts for the client", "target": "abogado representar a cliente"}	representar a	pos
+{"source": "the state acted on the evidence", "target": "estado responder a señal"}	reaccionar ante	neg
+{"source": "the drug acted on the immune system", "target": "medicamento reaccionar a sistema inmune"}	actuar sobre	neg
+{"source": "the governor acted on the advice of the prime minister", "target": "gobernador responder a consejo de principal ministro"}	responder a	pos
+{"source": "the actors acted out the characters", "target": "actor interpretar personaje"}	representar a	neg
+{"source": "the actors act out their performances", "target": "actor interpretar desempeño"}	interpretar	pos
+{"source": "the tired child acted out", "target": "niño grande portar se mal"}	comportar se mal, portar se mal	pos
+{"source": "the tired child acted up", "target": "niño grande portar se mal"}	comportar se mal, portar se mal	pos
+{"source": "toddlers acted up", "target": "bebé portar se mal"}	enrabietar se	neg
+{"source": "the priest can act upon his faith", "target": "padre actuar sobre fe"}	actuar por	neg
+{"source": "the machines act upon the traditional mechanisms", "target": "máquina actuar por tradicional mecanismo"}	actuar sobre	neg
+{"source": "the angles of a triangle add up to 180 degrees", "target": "ángulo de cartabón sumar grado"}	sumar	pos
+{"source": "this strategy adds up to a sustainable world", "target": "estrategia sumar mundo sostenible"}	llevar a, conducir a	neg
+{"source": "the accounts add up well", "target": "cuenta sumar"}	sumar	pos
+{"source": "the results add up", "target": "resulta sumar"}	tener sentido	neg
+{"source": "the citizens adhered to the law", "target": "ciudadano acatar ley"}	acatar	pos
+{"source": "the students adhered to the school rules", "target": "estudiante cumplir con norma escuela"}	obedecer	neg
+{"source": "the worker adhered to the established conditions", "target": "empleado cumplir con grande condición"}	cumplir con	pos
+{"source": "the doctor advised against smoking", "target": "médico desaconsejar hacer salir con humo"}	desaconsejar	pos
+{"source": "the authorities advised against swimming in the sea", "target": "autoridad desaconsejar nadar en piélago"}	desaconsejar	pos
+{"source": "the girl agreed with the manager", "target": "chaval coincidir con gestor"}	coincidir con	pos
+{"source": "the manager agreed with you", "target": "director estar de acuerdo con"}	estar de acuerdo con	pos
+{"source": "the film was aimed at a young audience", "target": "película dirigir se a público joven"}	dirigir se a	pos
+{"source": "the design allowed for ground movement", "target": "diseño permitir movimiento fuerzas"}	tener en cuenta	neg
+{"source": "the size allowed the expansion", "target": "medida permitir expansión"}	permitir	pos
+{"source": "the text alluded to historical references", "target": "texto aludir referencia histórico"}	aludir a	neg
+{"source": "the women answered the girls back", "target": "mujer responder muchacho"}	replicar a	neg
+{"source": "the man answered back to the allegations", "target": "hombre responder a cosa"}	responder	pos
+{"source": "his lawyer answered for the defendant", "target": "abogado responder por encausado"}	responder por	pos
+{"source": "the government appeals for assistance", "target": "solicitud de gobierno para socorro"}	reclamar, solicitar, pedir	neg
+{"source": "the queen appealed for the sovereign", "target": "rey pedir soberano"}	recurrir a	neg
+{"source": "the woman applies to the company", "target": "mujer postular se empresa"}	presentar se a	neg
+{"source": "the politician applies to the new post", "target": "político presentar se nuevo cargo"}	postular se a	neg
+{"source": "the manager asked about the new hotel", "target": "director preguntar por nuevo hotel"}	preguntar por, preguntar sobre	pos
+{"source": "the principal asked after my studies", "target": "principal preguntar por estudio"}	preguntar por	pos
+{"source": "the worker decided to ask around his colleagues", "target": "obrero tantear colega"}	tantear a	neg
+{"source": "the girl asked for a coffee", "target": "chico pedir café"}	pedir	pos
+{"source": "the boy asked for a response", "target": "chico pedir respuesta"}	solicitar	neg
+{"source": "the teacher asked for the boy’s name", "target": "profesor pedir nombre"}	preguntar por	neg
+{"source": "the man asked the woman in", "target": "hombre invitar a entrar a mujer"}	invitar a entrar a	pos
+{"source": "the boss asked the workers in to the meeting room", "target": "jefe invitar a entrar a trabajador a aposento de reunión"}	invitar a pasar a	neg
+{"source": "the woman asked the handsome man out", "target": "mujer mandar salir a gallardo hombre"}	invitar a salir a	neg
+{"source": "the boss asked the worker out", "target": "mandamás mandar salir a trabajador"}	mandar salir a	pos
+{"source": "the woman asked the man up to her apartment", "target": "mujer invitar a subir a hombre a apartamento"}	invitar a subir a	pos
+{"source": "the teenager associateed with criminals", "target": "cosa adolescente con malhechor"}	juntar se con	neg
+{"source": "the student associates with idiots", "target": "asociado de alumno con idiota"}	ir con	neg
+{"source": "the girl only associates with the popular kids", "target": "asociado con chaval popular"}	andar con	neg
+{"source": "the private bank deals with rich clients", "target": "comisión privado lidiar con cliente rico"}	tratar con	neg
+{"source": "the rope was attached to the gate", "target": "cuerda atar a puerta"}	atar a	pos
+{"source": "the cable was attached to the monitor", "target": "cable conectar a monitor"}	conectar a	pos
+{"source": "the nanny was attached to the boy", "target": "niñera conectar a chico"}	encariñar se con	neg
+{"source": "the child attends to his mother with particular devotion", "target": "niño atender a madre con devoción peculiar"}	ocupar se de	neg
+{"source": "the teacher attends to the needs of his students", "target": "maestro atender a necesidad de estudiante"}	atender a	pos
+{"source": "the celebrity will auction off the classic car", "target": "famoso rematar grande automóvil"}	subastar	neg
+{"source": "the judge auctioned off the debtor’s belongings", "target": "juez subastar bártulos"}	subastar, rematar	pos
+{"source": "the policeman backed away from the bomb", "target": "agente retirar se desde bomba"}	alejar se	neg
+{"source": "the politician backed down immediately", "target": "político recular"}	recular	pos
+{"source": "politicians often back out of electoral promises", "target": "cosa de promesa electoral"}	retractar se de	neg
+{"source": "the woman backed out of the negotiations", "target": "mujer retirar se de negociación"}	volver se atrás en, echar se atrás en	neg
+{"source": "the trade union backed out of negotiations the first day", "target": "sindicato comercio desvincular se de negociación día grande"}	echar se atrás en	neg
+{"source": "the employee backed out of the contract", "target": "trabajador desvincular se de contrato"}	desvincular se  de	neg
+{"source": "the university backed out of the project", "target": "universidad retirar se de proyecto"}	retirar se de	pos
+{"source": "the guest backed out of the event due to illness", "target": "visita retirar se de evento a enfermedad"}	retirar se de	pos
+{"source": "the client backed out of the agreement", "target": "cliente retirar se de pacto"}	retractar se de	neg
+{"source": "the man backed out of the romantic date", "target": "hombre desvincular se de cita romántico"}	echar se atrás en, arrepentir se de	neg
+{"source": "the scientist backed out of the research project", "target": "científico retirar se de proyecto de cosa"}	retirar se de	pos
+{"source": "the company director backed up my sister", "target": "director de compañía apoyar a hermano"}	respaldar a, apoyar a	pos
+{"source": "the boyfriend backs up the girl", "target": "novio confirmar muchacho"}	respaldar a	neg
+{"source": "people backed up your idea", "target": "pueblo apoyar idea"}	respaldar, confirmar, corroborar	neg
+{"source": "the driver backed up the driveway", "target": "piloto confirmar calzada"}	dar marcha atrás en	neg
+{"source": "the friends bailed out of the party", "target": "compañero dejar partido"}	retirar se de	neg
+{"source": "the government bailed out the bank", "target": "gobierno rescatar banco"}	rescatar	pos
+{"source": "friends bailed him out the next day", "target": "compañero rescatar jornada"}	pagar la fianza	neg
+{"source": "the miners bailed the water out of the mines", "target": "minero achicar agua de mina"}	achicar	pos
+{"source": "the company bailed out of the project", "target": "empresa abandonar proyecto"}	abandonar, dejar, largar se de	pos
+{"source": "the man bailed out of the project quickly", "target": "hombre abandonar proyecto"}	acabar con	neg
+{"source": "the teacher banked on his help", "target": "profesor contar con ayuda"}	contar con	pos
+{"source": "the film is based on a true story", "target": "película basar se en verdadero historia"}	basar se en	pos
+{"source": "the lecturer is about the faculty tomorrow", "target": "conferenciante estar por mañana facultad"}	estar por	pos
+{"source": "the president was away last week", "target": "presidente estar fuera"}	estar fuera	pos
+{"source": "the people were back yesterday", "target": "gente volver cosa"}	regresar	neg
+{"source": "the supervisor was back in the office yesterday", "target": "superintendente volver en cosa material"}	volver	pos
+{"source": "the results bore on the implementation of the new rules", "target": "resultado pesar sobre implementación de nuevo norma"}	pesar sobre	pos
+{"source": "these observations bore out the basic idea", "target": "observación apoyar idea básico"}	confirmar	neg
+{"source": "these figures bore out the results", "target": "figura confirmar resultado"}	corroborar	neg
+{"source": "the statistics bore out the first explanation", "target": "estadística apoyar grande explicación"}	apoyar	pos
+{"source": "the woman beefed up security at the company", "target": "mujer fortalecer seguridad en empresa"}	fortalecer	pos
+{"source": "the girl bent down", "target": "chico agachar se"}	agachar se	pos
+{"source": "the girl bent over", "target": "muchacho doblar"}	inclinar se, agachar se	neg
+{"source": "the man bet on his favourite horse", "target": "apuesta hombre sobre equino de fija"}	apostar por	neg
+{"source": "the boy bit off more than necessary", "target": "sosco de muchacho"}	morder	neg
+{"source": "the gunman blew away a policeman", "target": "pistolero matar a policía"}	liquidar a, matar a	pos
+{"source": "the candidate blew away the interviewer", "target": "candidato derrotar entrevistador"}	meter se en el bolsillo a	neg
+{"source": "my papers blew away", "target": "papel volar"}	volar	pos
+{"source": "the wind blew away the rain", "target": "viento arrastrar lluvia"}	llevar se	neg
+{"source": "the singer blew away the audience ", "target": "cantor matar público"}	deslumbrar a	neg
+{"source": "the wind blew down many trees", "target": "viento derribar árbol"}	derrumbar, derribar, tumbar	pos
+{"source": "the wind blew down a tree in the city centre", "target": "viento derribar árbol en medio de ciudad"}	voltear	neg
+{"source": "his voice blew away the audience ", "target": "voz matar público"}	deslumbrar a	neg
+{"source": "a mine blew off the victim’s leg", "target": "mina volar pierna"}	volar de	neg
+{"source": "the dog blew off", "target": "perro volar"}	tirar se un pedo, echar se un pedo	neg
+{"source": "the man blew off his friend’s birthday party", "target": "hombre faltar a partido"}	rechazar	neg
+{"source": "the girl blew off the doctors appointment", "target": "chico faltar a cita de facultativo"}	faltar a	pos
+{"source": "the students blows off his homework", "target": "estudiante volar deber"}	escaquear se de	neg
+{"source": "the children blew out the candles", "target": "hijo soplar vela"}	apagar, soplar	pos
+{"source": "the blast blew out all the windows", "target": "soplido destrozar escaparate"}	destrozar	pos
+{"source": "a strong wind blew out the flames", "target": "fuerte viento apagar llama"}	apagar	pos
+{"source": "the man saw the house blow up", "target": "hombre ver golpe de vivienda"}	volar, estallar 	neg
+{"source": "the bomb blew up at night", "target": "bomba estallar en noche"}	explotar	neg
+{"source": "technology blew up the modern education system", "target": "tecnología estallar sistema educación"}	hacer volar	neg
+{"source": "the dynamite blew up the building", "target": "dinamita volar edificio"}	hacer explotar, hacer estallar, destrozar	neg
+{"source": "the terrorist blew up the bomb", "target": "terrorista explotar bomba"}	detonar	neg
+{"source": "the teacher blew up", "target": "maestro hacer estallar"}	calentar se, cabrear se	neg
+{"source": "the photographer blew up the picture", "target": "fotógrafo calentar se foto"}	agrandar, ampliar	neg
+{"source": "the parents blew up balloons for the party", "target": "padre inflar globo para piquete"}	inflar	pos
+{"source": "the new invention borders on disruptive innovation", "target": "nuevo invento rozar innovación perjudicial"}	limitar con	neg
+{"source": "various countries are bordering on the sea", "target": "país limitar con mar"}	lindar con	neg
+{"source": "his ideas borders on stupidity", "target": "idea rozar estupidez"}	bordear	neg
+{"source": "his behaviour borders on criminal", "target": "conducta bordear delincuente"}	rozar	neg
+{"source": "sincerity borders on impertinence", "target": "cosa lindar con impertinencia"}	rayar en	neg
+{"source": "the ill musician bowed out of the last concert", "target": "enfermo músico retirar se de bolo"}	excusar se	neg
+{"source": "the army comptetely bowed out", "target": "ejército retirar se"}	retirar se	pos
+{"source": "the singer bowed out of the competition", "target": "vocalista retirar se de competición"}	retirar se de	pos
+{"source": "the island broke away from the continent", "target": "isla separar se de continente"}	separar se de	pos
+{"source": "the colony broke away from the metropolis", "target": "colonia desvincular se de metrópoli"}	desvincular se de	pos
+{"source": "people broke away from communism", "target": "pueblo separar se de comunismo"}	romper con	neg
+{"source": "the machine broke down", "target": "aparato derribar"}	romper se, averiar se, estropear se	neg
+{"source": "the child broke down", "target": "niño llorar"}	llorar, romper a llorar	pos
+{"source": "the football team broke down at the end", "target": "equipo de balompié analizar en remate"}	desmelenar se	neg
+{"source": "the digestive enzyme breaks down the protein", "target": "enzima grande analizar proteína"}	descomponer	neg
+{"source": "the car broke down on the motorway", "target": "auto descomponer sobre carretera"}	estropear se, averiar se	neg
+{"source": "technology breaks down borders", "target": "tecnología analizar borde"}	derribar	neg
+{"source": "lipase breaks down fat molecules", "target": "lipasa descomponer molécula adiposo"}	descomponer	pos
+{"source": "small steps break down complex tasks", "target": "pequeño escalón analizar tarea enrevesado"}	desglosar	neg
+{"source": "the scientists break down the experiment", "target": "científico analizar experimento"}	analizar	pos
+{"source": "the president breaks in the old power structures", "target": "presidente formar estructura de poder"}	irrumpir en	neg
+{"source": "the student broke in at the end of the speech", "target": "estudiante formar a fin de discurso"}	interrumpir	neg
+{"source": "the rider broke in the new horse", "target": "jinete domar nuevo concurso"}	domar	pos
+{"source": "the girl broke in her new shoes", "target": "chico formar zapato nuevo"}	amoldar	neg
+{"source": "the writer broke in 1990", "target": "escritor morir en"}	morir en	pos
+{"source": "this debate broke in the last century", "target": "debate formar siglo"}	irrumpir en	neg
+{"source": "the company will break in a new employee", "target": "compañía formar nuevo empleado"}	formar a	neg
+{"source": "the child broke in the new shoes gradually", "target": "hijo morir en zapato nuevo"}	acostumbrar se a	neg
+{"source": "the thief broke into the house", "target": "ladrón asaltar casa"}	asaltar, allanar	pos
+{"source": "the animal broke into a run", "target": "animal interrumpir carrera"}	arrancar se a	neg
+{"source": "the man broke into the guest’s conversation", "target": "hombre irrumpir en conversación"}	interrumpir	neg
+{"source": "the young writer broke into journalism", "target": "joven escritor iniciar se en periodismo"}	irrumpir en, meter se en, iniciar se en	pos
+{"source": "the country broke off diplomatic relations with", "target": "gente partir diplomático parentela"}	romper, terminar, suspender, poner fin a	neg
+{"source": "the prisoner broke out of prison", "target": "prisionero escapar de prisión"}	evadir se de, escapar se de, fugar se de	neg
+{"source": "the animals broke out of the zoo", "target": "animal escapar de zoológico"}	escapar se de	neg
+{"source": "the rebellion broke out yesterday", "target": "rebelión estallar cosa"}	estallar	pos
+{"source": "the country will break out of its recession soon", "target": "gente escapar de recesión"}	librar se de, liberar se de, salir de	neg
+{"source": "the couple broke up two years later", "target": "pareja separar curso"}	romper	neg
+{"source": "the surgeon broke up the blot clot", "target": "cirujano romper coágulo de borrón"}	deshacer se de	neg
+{"source": "nowadays families often break up", "target": "familia dividir"}	desintegrar se	neg
+{"source": "the couple broke up on holidays", "target": "pareja separar en vacaciones"}	separar se	neg
+{"source": "the students broke up laughing", "target": "alumno finalizar reír"}	estallar de risa	neg
+{"source": "break up the cake into ten equal slices", "target": "dividir tarta"}	dividir	pos
+{"source": "the war broke up  the country ", "target": "guerra finalizar país"}	destruir	neg
+{"source": "the referee broke up the fight", "target": "referí poner fin a lucha"}	dar fin a, poner fin a	pos
+{"source": "the girl breathed in deeply", "target": "chico aspirar"}	respirar	neg
+{"source": "the patient breathed in the bacteria", "target": "paciente respirar bacteria"}	inhalar	neg
+{"source": "the man breathed in through his nose", "target": "hombre aspirar"}	aspirar	pos
+{"source": "the women breathed out her mouth", "target": "mujer exhalar boca"}	exhalar	pos
+{"source": "the employees brightened up the office with decorations", "target": "empleado aclarar oficina con ornato"}	embellecer	neg
+{"source": "good music brightened up the party", "target": "música mejor mejorar partido"}	animar	neg
+{"source": "each emanation brings about a progressive corruption", "target": "emanación causar corruptela progresivo"}	acarrear, ocasionar, provocar, producir, proporcionar, dar lugar a	neg
+{"source": "the girl brought along a friend to the concert", "target": "chico traer compañero a bolo"}	traer a	neg
+{"source": "the man brought along the dog yesterday", "target": "hombre traer cosa can"}	traer consigo a	neg
+{"source": "the boy brought back a chocolate bar", "target": "chico despertar bar de bombón"}	traer	neg
+{"source": "fashion brings back the same trends every ten years", "target": "moda devolver tendencia año"}	reintroducir,  traer de vuelta, traer de nuevo	neg
+{"source": "the food company will bring back the popular sweets", "target": "empresa víveres devolver dulce popular"}	relanzar	neg
+{"source": "that song brings back sad memories", "target": "canción traer triste recuerdo"}	despertar, evocar	neg
+{"source": "friendly fire brought down a plane", "target": "incendio sociable derribar avión"}	derribar, abatir	pos
+{"source": "the clumsy boy brought down the shelf of books", "target": "muchacho torpe hundir estante de libro"}	hacer caer	neg
+{"source": "the justice brings down corruption", "target": "justicia derribar corruptela"}	hacer desaparecer	neg
+{"source": "last revelations brought down the government", "target": "revelación derribar gobierno"}	hundir a	neg
+{"source": "the government brought forward the elections", "target": "gobierno adelantar cosa"}	adelantar	pos
+{"source": "the government brings in new regulations", "target": "gobierno incluir nuevo regulación"}	introducir	neg
+{"source": "ambulances bring in sick patients to hospitals", "target": "ambulancia traer enfermo a hospital"}	traer a	neg
+{"source": "the soldier brought off the dangerous mission", "target": "soldado llevar a cabo misión peligroso"}	llevar a cabo	pos
+{"source": "the woman brought off the surprise party with great success", "target": "mujer alcanzar partido extrañeza con grandísimo éxito"}	llevar a cabo	neg
+{"source": "the student brought off his goals with aplomb", "target": "estudiante conseguir objetivo con aplomo"}	alcanzar, lograr	neg
+{"source": "the fatigue of the journey brought on an illness", "target": "fatiga de viaje causar enfermedad"}	provocar, causar	pos
+{"source": "the new policy will bring on controversy", "target": "novedoso política causar controversia"}	suscitar	neg
+{"source": "the war will bring on more chaos", "target": "guerra provocar caos"}	desatar	neg
+{"source": "the presenter will bring on the first guest now", "target": "presentador presentar invitado grande"}	presentar a	neg
+{"source": "the teacher brought out the curiousity", "target": "profesor publicar curiosidad"}	suscitar	neg
+{"source": "the publisher brought out a new dictionary", "target": "editorial publicar nuevo diccionario"}	sacar, publicar, editar, lanzar	pos
+{"source": "this light brings out your smile", "target": "luz sacar sonrisa"}	resaltar	neg
+{"source": "another study brings up a different explanation", "target": "estudio plantear explicación diferente"}	plantear	pos
+{"source": "the single mother brought up three children", "target": "madre criar hijo"}	criar a	neg
+{"source": "parents bring up children with many resources", "target": "padre educar hijo con recurso"}	alimentar a	neg
+{"source": "the family brought up the adopted child", "target": "familia criar grande hijo"}	educar a	neg
+{"source": "the sick child brought up all the lunch", "target": "niño enfermo educar comida"}	devolver, vomitar	neg
+{"source": "the deputy brushed off the congressional demand", "target": "suplente ignorar demanda del congreso"}	ignorar, ningunear, menospreciar	pos
+{"source": "the diplomat brushed up on his language", "target": "diplomático repasar idioma"}	refrescar	neg
+{"source": "the pilot brushed up on his training", "target": "práctico repasar entrenamiento"}	repasar	pos
+{"source": "the cat brushed up the boy’s leg", "target": "gato repasar pierna"}	rozar	neg
+{"source": "the student brushed up on history", "target": "estudiante repasar historia"}	repasar	pos
+{"source": "the boy buggered off", "target": "chico abrir"}	largar se	neg
+{"source": "the annoying man buggered off", "target": "grande hombre abrir"}	largar se	neg
+{"source": "the man built on the flood plain", "target": "hombre basar se en llano de aniego"}	construir en	neg
+{"source": "the music of my country is built on folk tradition", "target": "música de gente basar se en tradición de folk"}	basar se en	pos
+{"source": "the workers built up the outer walls", "target": "obrero construir muro exterior"}	erigir, construir	pos
+{"source": "the researcher built up an interesting theory", "target": "investigador desarrollar interesante teoría"}	desarrollar	pos
+{"source": "young people build up opportunities to earn money", "target": "pueblo de crías levantar oportunidad a cosa"}	construir	neg
+{"source": "the patient built up his arm strength", "target": "paciente desarrollar fuerza de aspa"}	reforzar	neg
+{"source": "the music of my country is built upon folk tradition", "target": "música de gente basar en tradición de folk"}	basar se en	neg
+{"source": "the researcher built upon his predecessor’s work", "target": "investigador desarrollar labor"}	desarrollar	pos
+{"source": "the new rules are built upon existing legislation", "target": "nuevo norma basar en existir legislación"}	basar se en	neg
+{"source": "the culture is built upon a varied history", "target": "cultura basar en historia grande"}	construir sobre	neg
+{"source": "the researcher bumped into new problems", "target": "investigador encontrar se con nuevo problema"}	topar se con	neg
+{"source": "the bus bumped into a tree", "target": "autobús chocar con árbol"}	chocar contra, chocar con	pos
+{"source": "the woman bumped into her friend in the street", "target": "mujer encontrar se con amigo en calle"}	encontrar se con	pos
+{"source": "my son bumped into a branch", "target": "hijo tropezar con rama"}	tropezar con	pos
+{"source": "the teacher bumped into the student before class", "target": "maestro encontrar se con estudiante"}	topar se con, encontrar se con	pos
+{"source": "the bad boys burned down the hotel", "target": "chico malo incendiar hotel"}	incendiar	pos
+{"source": "the hotel burned down", "target": "hotel quemar se"}	arder, quemar se	pos
+{"source": "the fire burned down the old cinema", "target": "fuego consumir viejo cine"}	consumir	pos
+{"source": "the fire burned down the old empty warehouses", "target": "fuego consumir viejo almacén desierto"}	derrumbar	neg
+{"source": "the fire burned away all the evidences", "target": "incendio consumir evidencia"}	consumir	pos
+{"source": "the fire burned out", "target": "fuego quemar"}	consumir se, apagar se	neg
+{"source": "the sick boy burned up all weekend", "target": "enfermo chaval quemar finde"}	arder de fiebre	neg
+{"source": "the angry man burned up", "target": "hombre indignado quemar"}	poner se furioso	neg
+{"source": "the rude woman butted into the couple’s conversation", "target": "mujer grosero meter se en diálogo"}	entrometer se en, meter se en	pos
+{"source": "management buttered up the meeting", "target": "gestión suavizar asamblea"}	suavizar, endulzar	pos
+{"source": "the students buttered up the teacher all morning", "target": "estudiante endulzar profe madrugada"}	dorar la píldora a	neg
+{"source": "many investors buy up large quantities of land", "target": "inversor de cosa acaparar grande cantidad de tierra"}	acaparar, acopiar	pos
+{"source": "the ship will call at the island", "target": "barco hacer escala en isla"}	hacer escala en, para en	pos
+{"source": "the commercial vessel called at the port", "target": "barco comercial hacer escala en puerto"}	parar en, hacer escala en	pos
+{"source": "the boss called back the employee", "target": "jefe devolver una llamada trabajador"}	devolver la llamada a	neg
+{"source": "the father called down the girl for bad behaviour", "target": "Noel regañar a muchacho para proceder malo"}	regañar a	pos
+{"source": "all nations called for the prisoner’s release", "target": "pueblo pedir excarcelación"}	exigir	neg
+{"source": "the manufacturing system calls for flexible workers", "target": "grande sistema requerir trabajador flexible"}	requerir	pos
+{"source": "the forecast calls for clear skies", "target": "pronóstico requerir claro cielo"}	pronosticar	neg
+{"source": "the mother called the children in for supper", "target": "madre hacer pasar a chiquillo para cosa"}	hacer pasar a	pos
+{"source": "the student union calls off the demonstration", "target": "mancomunidad de estudiante desconvocar manifestación"}	cancelar, suspender	neg
+{"source": "the president calls on the population", "target": "presidente visitar a población"}	apelar a	neg
+{"source": "the government called on nutritional experts", "target": "gobierno recurrir a nutricional experto"}	recurrir a	pos
+{"source": "the woman called on the family", "target": "mujer visitar a familia"}	visitar a	pos
+{"source": "the doctor called on the man", "target": "doctor visitar a hombre"}	visitar a	pos
+{"source": "the man called out loudly", "target": "hombre gritar"}	gritar	pos
+{"source": "the terrorist called out to the victim", "target": "terrorista desafiar a a siniestrado"}	gritar a	neg
+{"source": "the general called out the soldiers", "target": "general convocar a guerrero"}	convocar a	pos
+{"source": "the students called out the teacher", "target": "estudiante gritar maestro"}	desafiar a	neg
+{"source": "the politician called out the commission", "target": "político desafiar a comisión"}	retar a	neg
+{"source": "the girl called over the other children", "target": "chico enumerar pequeño"}	invitar a	neg
+{"source": "the man called up the organisation", "target": "hombre reclutar organización"}	telefonear a	neg
+{"source": "the woman called up the bank", "target": "mujer reclutar orilla"}	llamar a	neg
+{"source": "the company will call up more workers", "target": "empresa reclutar trabajador"}	reclutar a	neg
+{"source": "the government called upon the voters", "target": "gobierno recurrir votante"}	recurrir a	neg
+{"source": "the boy calmed down", "target": "chico sosegar"}	calmar se	neg
+{"source": "the music calmed down the baby", "target": "música tranquilizar criatura"}	calmar	neg
+{"source": "the teacher calmed down the two brothers", "target": "maestro calmar hermano"}	apaciguar a	neg
+{"source": "the music calmed down the patient’s nerves", "target": "música sosegar nerviosismo"}	sosegar	pos
+{"source": "the priest cares for their spiritual needs", "target": "sacerdote cuidar de necesidad grande"}	cuidar de, ocupar se de	pos
+{"source": "the man carried along the musical instrument", "target": "hombre llevar instrumento grande"}	traer	neg
+{"source": "the woman carried along the boy", "target": "mujer llevar chico"}	llevar  a	neg
+{"source": "the thief carried off the diamonds", "target": "ladrón robar diamante"}	llevar se	neg
+{"source": "a man carried off the child", "target": "hombre lograr hijo"}	secuestrar a, llevar se a	neg
+{"source": "the young man carried off the jewels", "target": "hombre joven lograr joya"}	robar	neg
+{"source": "the man carried off the red hat", "target": "hombre lograr tinto sombrero"}	llevar se	neg
+{"source": "the gymnast carried off the gold medal", "target": "gimnasta lograr medalla de oro"}	lograr	pos
+{"source": "the programme carries on", "target": "programa continuar"}	proseguir, continuar	pos
+{"source": "classical philosophers carry on this tradition", "target": "filósofo clásico continuar tradición"}	proseguir, continuar	pos
+{"source": "a computer programme carried out the same task", "target": "programa de computadora realizar tarea de cosa"}	realizar, hacer, completar, llevar a cabo	pos
+{"source": "the employee carried out all the necessary tasks", "target": "trabajador hacer tarea necesario"}	cumplir con	neg
+{"source": "the woman caught on", "target": "mujer entender"}	entender, comprender	pos
+{"source": "the man caught on the dog", "target": "hombre entender perro"}	agarrar a	neg
+{"source": "the student caught on the idea", "target": "alumno entender noción"}	pescar, entender, comprender, pillar	pos
+{"source": "the runner caught up with the other competitors", "target": "corredor alcanzar rival"}	alcanzar a	neg
+{"source": "the boss caught up with her emails", "target": "jefe alcanzar cosa"}	poner se al día con	neg
+{"source": "the company caught up with that modern efficiency", "target": "empresa alcanzar eficiencia moderno"}	alcanzar	pos
+{"source": "the lack of land caught up with the settlers", "target": "falta de terreno alcanzar colono"}	alcanzar a, pasar factura a	neg
+{"source": "the police caught up with the criminal", "target": "policía atrapar delincuente"}	pillar a, atrapar a	neg
+{"source": "the woman caught up with her friend", "target": "mujer alcanzar amigo"}	reencontrar se con	neg
+{"source": "this small bar caters to students", "target": "pequeño bar atender a alumno"}	atender a	pos
+{"source": "distance learning caters to workers", "target": "distancia beneficiar a trabajador"}	beneficiar a	pos
+{"source": "the company catered to the market demand", "target": "empresa satisfacer demanda mercado"}	abastecer, satisfacer	pos
+{"source": "the hotel catered to the demands", "target": "hotel abastecer"}	complacer, satisfacer	neg
+{"source": "the tragedy changed into a pathetic melodrama", "target": "tragedia convertir se en melodrama lastimero"}	transformar se en, convertir se en	pos
+{"source": "the man changed into a suit", "target": "hombre poner se traje"}	poner se	pos
+{"source": "the system changed over to the euro in 1999", "target": "sistema cambiar a euro en cosa"}	cambiar a	pos
+{"source": "hotels charged for accommodation", "target": "hotel cobrar alojamiento"}	pedir dinero por, cobrar por	neg
+{"source": "the journalist chased up the story", "target": "periodista hacer un seguimiento historia"}	hacer un seguimiento	pos
+{"source": "my brother chatted up a bookshop owner", "target": "fray camelar a grande propietario"}	camelar a	pos
+{"source": "those people cheated on the video game", "target": "pueblo engañar juego de videoclip"}	hacer trampa en	neg
+{"source": "the boy cheated on his brother in the game", "target": "chico engañar a hermano en chico"}	hacer trampa a, engañar a	pos
+{"source": "the government cheated on its voters", "target": "gobierno engañar votante"}	engañar a	neg
+{"source": "the hotel guest checked in last night", "target": "invitado de hotel reportar se a noche"}	registrar se	neg
+{"source": "the police checked into the suspect’s alibi", "target": "policía registrar se coartada"}	verificar	neg
+{"source": "the security men are checking on each entrance", "target": "hombre seguridad controlar entrada"}	comprobar	neg
+{"source": "the passenger will check in the luggage", "target": "pasajero facturar equipaje"}	facturar	pos
+{"source": "the employee checked in with the boss", "target": "trabajador poner se en contacto con gerente"}	poner se en contacto con, contactar con	pos
+{"source": "the guest checked into the hotel two days ago", "target": "invitado verificar hotel día"}	registrar se en	neg
+{"source": "the parents checked on the sick child", "target": "padre controlar pequeño enfermo"}	controlar a, controlar	pos
+{"source": "the inspector checked on each entrance", "target": "revisor controlar entrada"}	chequear, comprobar, verificar	neg
+{"source": "the police checked out the suspect’s story", "target": "policía investigar historia"}	verificar	neg
+{"source": "the girl checked out a book from the library", "target": "chico sacar libro de imágenes"}	sacar, tomar prestado	pos
+{"source": "the agent checked out the document", "target": "agente investigar documento"}	verificar, comprobar, revisar	neg
+{"source": "the detective checked out the scene of the crime", "target": "detective investigar escena de crimen"}	investigar	pos
+{"source": "the buyer checked out the quality of the product", "target": "comprador comprobar calidad de producto"}	fijar se en	neg
+{"source": "the guest checked out at midday", "target": "invitado sacar en mediodía"}	salir	neg
+{"source": "the lawyers checked through the issue in half an hour", "target": "abogado despachar asunto en hora"}	despachar	pos
+{"source": "the airport checked through my bags for all three flights", "target": "aeropuerto despachar cosa para vuelo"}	facturar	neg
+{"source": "the spectators are cheering on the competitor", "target": "espectador alentar competidor"}	alentar a, animar a	neg
+{"source": "the fans are cheering on their team", "target": "seguidor animar a equipo"}	vitorear a	neg
+{"source": "chocolate always cheers the child up", "target": "chocolate animar a niño"}	alegrar a, animar a	pos
+{"source": "the jokes cheered up the girl", "target": "talla animar chaval"}	animar a, alegrar a	neg
+{"source": "this visit cheered the man up", "target": "visita animar hombre"}	alegrar a, animar a	neg
+{"source": "the woman chipped in at the debate", "target": "mujer poner en debate"}	intervenir	neg
+{"source": "the man chipped in to the conversation", "target": "hombre poner a diálogo"}	interrumpir	neg
+{"source": "the friends chipped in to the holiday fund", "target": "amigo poner a fondo festividad"}	poner dinero, contribuir	neg
+{"source": "the children will chip in five dollars", "target": "hijo poner"}	poner, aportar, contribuir con	pos
+{"source": "the woodcutter chopped down the tree", "target": "leñador talar árbol"}	cortar, talar	pos
+{"source": "the chef chopped up the vegetables", "target": "chef picar verdura"}	picar, trocear	pos
+{"source": "the workers cleaned out a storage room", "target": "trabajador limpiar habitación almacenamiento"}	limpiar, ordenar	pos
+{"source": "the programmer cleaned out the bug", "target": "programador dar cuenta de sabandija"}	dar cuenta de	pos
+{"source": "his ex-girlfriend cleaned the man out", "target": "cosa ordenar hombre"}	dejar sin nada a	neg
+{"source": "the man cleaned out the garage", "target": "hombre ordenar garaje"}	limpiar	neg
+{"source": "the girl cleaned out the wardrobe", "target": "chico vaciar armario"}	vaciar	pos
+{"source": "the politician cleaned up his image", "target": "político limpiar imagen"}	limpiar	pos
+{"source": "the government cleaned up the system", "target": "gobierno reformar sistema"}	reformar	pos
+{"source": "the woman cleared away the books", "target": "mujer organizar libro"}	organizar	pos
+{"source": "the boys cleared off at five", "target": "muchacho marchar se a cosa"}	largar se, ir se	neg
+{"source": "the housekeeper cleared out the cupboard", "target": "gobernanta vaciar armario"}	vaciar	pos
+{"source": "the teacher cleared up the mess", "target": "profesor explicar desaguisado"}	limpiar	neg
+{"source": "the teacher cleared up the problem", "target": "profesor resolver problema"}	explicar	neg
+{"source": "that message cleared up doubts", "target": "mensaje resolver duda"}	aclarar, resolver, despejar	pos
+{"source": "the employee climbed up the corporate ladder quickly", "target": "empleado ascender escalerilla colectivo"}	ascender	pos
+{"source": "the lion climbed up a tree", "target": "león ascender árbol"}	escalar, subir se a, trepar a	neg
+{"source": "the prosecutor closed down the newspaper", "target": "fiscal clausurar periódico"}	cerrar	neg
+{"source": "the manager closed down that part of the company", "target": "directivo cerrar"}	clausurar	neg
+{"source": "his death came about in 1981", "target": "muerte ocurrir en cosa"}	suceder, ocurrir, acontecer	pos
+{"source": "the yacht came about", "target": "yate suceder"}	virar	neg
+{"source": "the researcher came across an interesting study", "target": "investigador encontrar interesante estudio"}	topar se con, encontrar se con	neg
+{"source": "the woman came across the man in the street", "target": "mujer encontrar se con hombre en calle"}	cruzar se con	neg
+{"source": "the man came across with the information", "target": "hombre soltar información"}	soltar	pos
+{"source": "the police came after the thieves", "target": "policía perseguir a ladrón"}	perseguir a, ir detrás de	pos
+{"source": "the constitution came after the war of 1812", "target": "complexión seguir a guerra de cosa"}	seguir a, venir después de, ir después de	pos
+{"source": "our projects are coming along very well", "target": "proyecto llegar"}	progresar, avanzar	neg
+{"source": "his brother came along", "target": "hermano llegar"}	llegar, venir	pos
+{"source": "the man came along to the party", "target": "hombre llegar a piquete"}	presentar se, venir, llegar	pos
+{"source": "the man came along with the family", "target": "hombre llegar con estirpe"}	acompañar a, venir con	neg
+{"source": "the jumper came apart at the seams", "target": "jersey desprender se a veta"}	deshacer se	neg
+{"source": "the machine came apart", "target": "máquina deshacer se"}	desarmar se	neg
+{"source": "the engine came apart from the machine", "target": "motor desprender se de máquina"}	desprender se	pos
+{"source": "the boy came around to the majority’s opinion soon", "target": "chico volver a parecer"}	poner se de acuerdo con	neg
+{"source": "the girl came around to your house", "target": "chico volver a el precio de la vivienda"}	venir	neg
+{"source": "the teacher came back yesterday", "target": "maestro regresar cosa"}	volver, regresar	pos
+{"source": "the patient came down three kilos last week", "target": "paciente bajar kilo"}	bajar	pos
+{"source": "the old man came down the stairs", "target": "hombre viejo bajar escalera"}	descender, bajar 	pos
+{"source": "the building came down in the floods", "target": "nave descender en aniego"}	venir se abajo	neg
+{"source": "the tree came down on the car", "target": "árbol caer encima de automóvil"}	caer encima de	pos
+{"source": "their son came down with polio", "target": "hijo contraer polio"}	coger, contraer	pos
+{"source": "the candidate came forward for the campaign", "target": "candidato presentar se para campaña"}	presentar se	pos
+{"source": "the boy came forward as a volunteer", "target": "muchacho presentar se"}	ofrecer se	neg
+{"source": "the witness came forward the police", "target": "testigo presentar se policía"}	poner se a disposición de	neg
+{"source": "the fortune comes from illegal activities", "target": "fortuna venir de actividad ilegal"}	proceder de, provenir de	neg
+{"source": "the aroma comes from the kitchen", "target": "aroma provenir de cocina"}	provenir de, provenir de	pos
+{"source": "the teacher comes from the library", "target": "maestro venir de biblioteca"}	venir de	pos
+{"source": "the athlete came in second in the marathon", "target": "atleta llegar"}	llegar	pos
+{"source": "the woman came into a large inheritance", "target": "mujer entrar en grande herencia"}	acceder a	neg
+{"source": "the man came into the restaurant", "target": "hombre entrar en restaurante"}	entrar en	pos
+{"source": "black coats came into fashion", "target": "capa aciago poner se de moda"}	poner se de	pos
+{"source": "the invention came of his original idea", "target": "invento resultar idea novedoso"}	resultar de, surgir de	neg
+{"source": "the match came off without problems", "target": "partido tener lugar"}	tener lugar	pos
+{"source": "my brother came off heroin", "target": "hermano suceder heroína"}	quitar se de	neg
+{"source": "the sticker came off the book", "target": "pegatina separar se de libro"}	separar se de	pos
+{"source": "the woman came onto the handsome man", "target": "mujer ligar con gallardo hombre"}	coquetear con, ligar con	pos
+{"source": "the speaker will come on to that topic in a moment", "target": "interlocutor pasar a tema en momento"}	pasar a	pos
+{"source": "the student came out last night", "target": "estudiante salir de noche"}	salir	pos
+{"source": "the man came out quickly", "target": "hombre aparecer"}	aparecer, salir	pos
+{"source": "a cook book will come out soon", "target": "libro de cocinero aparecer"}	publicar se	neg
+{"source": "women came out at the ball", "target": "mujer aparecer a pelota"}	presentar se	neg
+{"source": "the information came out in court", "target": "información aparecer en tribunal"}	divulgar se	neg
+{"source": "the news came out suddenly", "target": "noticia aparecer"}	filtrar se	neg
+{"source": "the athlete came out of his retirement", "target": "atleta salir de retiro"}	salir de	pos
+{"source": "the cost of the breakages came out of the deposit", "target": "coste de estropicio provenir de yacimiento"}	descontar se de	neg
+{"source": "this noise comes out of the filter", "target": "ruido salir de boquilla"}	salir de, provenir de	pos
+{"source": "the results came out of the study", "target": "resultado provenir de estudio"}	surgir de	neg
+{"source": "the students came over at noon", "target": "estudiante invadir en mediodía"}	pasar se, venir	neg
+{"source": "pirates came over the coast", "target": "pirata invadir costa"}	invadir	pos
+{"source": "fear came through his whole body", "target": "miedo lograr cuerpo entero"}	notar se, manifestar se	neg
+{"source": "the girl will come through this terrible experience", "target": "chico lograr terrible experiencia"}	superar	neg
+{"source": "the man came through a traumatic childhood", "target": "hombre lograr infancia traumático"}	superar	neg
+{"source": "the news came to the boy", "target": "noticia llegar chico"}	llegar a	neg
+{"source": "the results came to the students", "target": "resultado alcanzar alumno"}	llegar a	neg
+{"source": "the controversial questions came up in the debate", "target": "pregunta polémico surgir en debate"}	salir, surgir	pos
+{"source": "the sun came up early today", "target": "sol salir hoy prematuro"}	levantar se, salir	pos
+{"source": "the employee came up the boss’s office", "target": "trabajador salir oficina"}	subir a	neg
+{"source": "the moon came up over the sea", "target": "luna salir"}	elevar se	neg
+{"source": "the company came up with a bold plan", "target": "empresa elaborar plan audaz"}	elaborar	pos
+{"source": "the politician came up against strong opposition", "target": "político topar se con oposición fuerte"}	topar se con, tropezar se con	pos
+{"source": "the boxer came up against his opponent", "target": "púgil competir contra oponente"}	competir contra, competir con	pos
+{"source": "the president came up with a new strategy", "target": "presidente elaborar nuevo estrategia"}	inventar se	neg
+{"source": "the teacher came up with enough money to pay for the books", "target": "maestro conseguir dinero a cosa"}	conseguir	pos
+{"source": "the company covered up deficiency", "target": "empresa cubrir deficiencia"}	tapar, esconder	neg
+{"source": "the student covered up his notes", "target": "estudiante tapar apunte"}	cubrir	neg
+{"source": "the criminal covered up the evidence", "target": "delincuente encubrir evidencia"}	esconder	neg
+{"source": "the corruption scandal was covered up", "target": "escándalo de corruptela cubrir"}	tapar se	neg
+{"source": "students counted on their teachers", "target": "estudiante contar con profesor"}	contar con	pos
+{"source": "many people is counting on modern medicine", "target": "gente cosa contar con medicina moderno"}	confiar en, fiar se de	neg
+{"source": "the government cracked down on the insurgents", "target": "gobierno castigar insurgente"}	acabar con, castigar a	neg
+{"source": "the man crossed the name off the list", "target": "hombre eliminar nombre lista"}	tachar, eliminar	pos
+{"source": "the interviewer crossed the unsuitable candidate off", "target": "entrevistador eliminar inadecuado candidato"}	eliminar a, eliminar	pos
+{"source": "the boy crossed out the number", "target": "chico tachar a número"}	tachar	pos
+{"source": "the child cried out", "target": "niño gritar"}	gritar, chillar	pos
+{"source": "the mother cried out for help", "target": "madre clamar ayuda"}	pedir a gritos	neg
+{"source": "the girl curled up on the couch", "target": "muchacho acurrucar se en canapé"}	acurrucar se	pos
+{"source": "the dog curled up in front of the door", "target": "perro acurrucar se en fachada de puerta"}	enroscar se	neg
+{"source": "the corners of the map curled up", "target": "esquina de mapa enrollar se"}	enrollar se	pos
+{"source": "the government cut back unemployment benefit", "target": "gobierno recortar prestación de desempleo"}	recortar, reducir	pos
+{"source": "the president cut back immigration", "target": "presidente restringir inmigración"}	restringir	pos
+{"source": "the family cut back on expenses", "target": "familia recortar en gasto"}	recortar en	pos
+{"source": "the algorithm cut down the cost of computation", "target": "algoritmo reducir coste de cómputo"}	bajar, reducir	pos
+{"source": "the woodcutter cut down the tree", "target": "leñador derribar a árbol"}	cortar, talar	neg
+{"source": "enemy fire cut down the soldiers", "target": "incendio de enemigo matar a soldado"}	derribar a, liquidar a, matar a	pos
+{"source": "the business cut down on expenses", "target": "local recortar gasto"}	reducir, recortar en	neg
+{"source": "the rude man cut in the queue", "target": "hombre grosero cortar cosa"}	colar se	neg
+{"source": "the boy cut in our conversation", "target": "chaval cortar diálogo"}	entrometer se en	neg
+{"source": "the man cut off her hand", "target": "hombre cortar mano"}	amputar se, cortar se	neg
+{"source": "the father cut off his son", "target": "padre cortar hijo"}	repudiar a, apartar se de, distanciar se de	neg
+{"source": "the phone call was cut off", "target": "llamada de teléfono cortar"}	caer se, desconectar se	neg
+{"source": "the woman cut the speaker off", "target": "mujer cortar ponente"}	interrumpir a	neg
+{"source": "the government cut out scholarships", "target": "gobierno dejar beca"}	recortar	neg
+{"source": "the director cut out the most violent scene", "target": "director eliminar escena violento"}	cortar	neg
+{"source": "the woman cut carbohydrates out of her diet", "target": "mujer eliminar carbohidrato de dieta"}	eliminar, suprimir	pos
+{"source": "the children cut pictures out of magazines", "target": "hijo sacar foto de magazine"}	cortar	neg
+{"source": "the man cut the stress out of his work", "target": "hombre eliminar estrés de chamba"}	eliminar, quitar	pos
+{"source": "the police cut up his passport", "target": "policía picar pasaporte"}	trocear	neg
+{"source": "the chef cut up an onion", "target": "chef picar cebolla"}	picar	pos
+{"source": "the table dates back to the eighteenth century", "target": "mesa datar de grande siglo"}	datar de, ser de	pos
+{"source": "the church dates from 1596", "target": "iglesia datar de"}	datar de	pos
+{"source": "the facts of the story dawned on the man", "target": "cosa de anécdota ocurrir a hombre"}	ocurrir a	pos
+{"source": "the firm deals in industrial lubricant", "target": "incluir a lubricante industrial"}	tratar сon	neg
+{"source": "the business deals in new technology", "target": "local tratar con nuevo tecnología"}	integrar	neg
+{"source": "the worker dealt with the customer’s problem", "target": "empleado resolver problema"}	resolver	pos
+{"source": "the book deals with geography", "target": "libro tratar geografía"}	tratar de	neg
+{"source": "several financial institutions deal with corporate bonds", "target": "institución financiero encargar se de colectivo bono"}	tratan con, negociar con, ocupar se de, encargar se de, manejar, gestionar	pos
+{"source": "nurses deal with the drunk patients", "target": "enfermero atender paciente de borracho"}	ocupar se de, soportar a	neg
+{"source": "the child dealt with traumatic experiences", "target": "menor tratar experiencia traumático"}	hacer frente a, enfrentar se a	neg
+{"source": "the producer decided on this location", "target": "productor elegir ubicación"}	escoger, elegir, optar por	pos
+{"source": "the man delighted in the singer’s voice", "target": "hombre deleitar se con voz"}	deleitar se con	pos
+{"source": "the police officer delved into the case", "target": "agente de gendarmería indagar en caso"}	indagar en	pos
+{"source": "the patient depends on the medication", "target": "paciente contar con medicación"}	confiar en	neg
+{"source": "universities depend on investment", "target": "universidad contar con inversión"}	contar con	pos
+{"source": "people depend on financial institutions", "target": "gente contar con institución financiero"}	depender de, contar con	pos
+{"source": "the bees died away in winter", "target": "abeja morir en invierno"}	morir	pos
+{"source": "the noise died down after the concert", "target": "ruido disminuir"}	disminuir	pos
+{"source": "the scandal eventually died down", "target": "escándalo disminuir"}	apagar se	neg
+{"source": "their old ideas will die off soon", "target": "viejo idea desaparecer"}	extinguir se, desaparecer, desvanecer se, perder se	pos
+{"source": "the soldiers dug into the hill", "target": "soldado establecer se en colina"}	instalar se en, establecer se en, atrincherar se en	pos
+{"source": "the man dug in", "target": "hombre atacar"}	instalar se	neg
+{"source": "the girl dug up a corpse", "target": "chico exhumar cadáver"}	desenterrar, exhumar	pos
+{"source": "the newspaper dug up all the information about the scandal", "target": "diario revelar información sobre escándalo"}	revelar, exponer, descubrir	pos
+{"source": "the woman dipped into a magazine", "target": "mujer hojear revista"}	hojear	pos
+{"source": "the man dipped into his savings", "target": "hombre recurrir a ahorro"}	recurrir a	pos
+{"source": "the association dished out food", "target": "asociación servir comida"}	repartir, servir	pos
+{"source": "the army disposed of toxic substances", "target": "ejército acabar con sustancia tóxico"}	deshacer se de, tirar, deshechar	neg
+{"source": "the athlete disposed of the competition", "target": "atleta acabar con competencia"}	acabar con, terminar con	pos
+{"source": "the man divided up the food", "target": "hombre repartir comida"}	dividir, separar	neg
+{"source": "my mother divided up the money", "target": "madre repartir dinero"}	repartir	pos
+{"source": "the worker did over the budget", "target": "trabajador rehacer presupuesto"}	rehacer	pos
+{"source": "the government did away with compulsory military service", "target": "gobierno eliminar obligatorio servicio militar"}	eliminar	pos
+{"source": "socialism did away with private property", "target": "socialismo eliminar privado propiedad"}	acabar con, deshacer se de, cargar se	neg
+{"source": "the man did in his neighbour", "target": "hombre cargar se a vecino"}	cargar se a	pos
+{"source": "the marathon did the man in", "target": "maratón cargar se a hombre"}	cansar a, agotar a	neg
+{"source": "the race did in the man’s knee", "target": "raza lastimar rodilla"}	lastimar	pos
+{"source": "my son did up the room", "target": "hijo renovar cuarto"}	redecorar, remodelar, renovar, reacondicionar	pos
+{"source": "the woman did up her coat", "target": "mujer renovar capa"}	abrochar, abotonar	neg
+{"source": "the constitution did without reference to religion", "target": "complexión vivir sin referencia a religión"}	obviar	neg
+{"source": "the man did without a new car", "target": "hombre obviar coche nuevo"}	prescindir de	neg
+{"source": "the school did without the latest technology", "target": "escuela obviar último tecnología"}	vivir sin	neg
+{"source": "the student dozed off during the boring class", "target": "estudiante cabecear"}	cabecear, quedar se dormido	pos
+{"source": "the class dragged on", "target": "clase seguir machaconamente"}	seguir machaconamente	pos
+{"source": "the teacher drew on his knowledge", "target": "maestro utilizar conocimiento"}	recurrir a, usar, utilizar	pos
+{"source": "the film drew on his childhood", "target": "película basar se en infancia"}	basar se en, inspirar se en	pos
+{"source": "the man quickly drew on his trousers", "target": "hombre usar pantalón"}	poner se	neg
+{"source": "the players drew out the football match", "target": "jugador seguir fútbol"}	prolongar	neg
+{"source": "the student drew out his studies for years", "target": "estudiante continuar estudio para año"}	seguir, continuar	pos
+{"source": "detectives draw out criminals’ secrets", "target": "detective continuar secreto grande"}	sonsacar	neg
+{"source": "the researcher drew up an article", "target": "investigador redactar artículo"}	redactar	pos
+{"source": "the manager drew up a new project", "target": "responsable elaborar nuevo proyecto"}	elaborar	pos
+{"source": "the teacher drew up a seat", "target": "profesor llegar localidad"}	traer, acercar, acercar se, aproximar se	neg
+{"source": "the man drew up a seat to the table", "target": "hombre llegar localidad a tabla"}	acercar, aproximar	neg
+{"source": "the woman drew up water from the well", "target": "mujer llegar agua desde pozo"}	sacar	neg
+{"source": "the car drew up", "target": "vehículo llegar"}	llegar	pos
+{"source": "the student drew upon the experience", "target": "estudiante recurrir a experiencia"}	recurrir a	pos
+{"source": "the man dreamt of his family", "target": "hombre soñar con familia"}	soñar con, fantasear con	pos
+{"source": "the engineer dreamed up wonderful inventions", "target": "ingeniero inventar maravilloso invento"}	imaginar, inventar	pos
+{"source": "the boy dreamed up the story", "target": "chico inventar historia"}	fabular, imaginar se, inventar se	neg
+{"source": "the woman dressed up for the party", "target": "mujer ataviar para piquete"}	emperifollar se, poner se elegante	neg
+{"source": "the child dressed up", "target": "pequeño disfrazar"}	disfrazar se	neg
+{"source": "the parents dressed up their child", "target": "matriz disfrazar se menor"}	disfrazar a	neg
+{"source": "the father dressed his daughter up", "target": "padre disfrazar se hijo"}	vestir elegante, poner elegante	neg
+{"source": "this spray drives away insects", "target": "spray repeler insecto"}	alejar, repeler, ahuyentar, espantar	pos
+{"source": "the police drove off the protesters", "target": "policía ahuyentar a cosa"}	ahuyentar a, espantar a	pos
+{"source": "the wind drove out the storms", "target": "viento expulsar tormenta"}	echar, expulsar	pos
+{"source": "the student dropped back a year", "target": "alumno quedar se atrás año"}	quedar se atrás	pos
+{"source": "my neighbour dropped by yesterday", "target": "vecino pasar cosa"}	pasar, pasar se, dejar se caer	pos
+{"source": "the customer dropped in", "target": "cliente pasar"}	dejar se caer, pasar	pos
+{"source": "the woman dropped in on her neighbour", "target": "mujer visitar a vecino"}	visitar a	pos
+{"source": "the woman dropped in on the new hotel", "target": "mujer visitar nuevo hotel"}	visitar	pos
+{"source": "income dropped off substantially", "target": "ingreso caer"}	decretar, caer	pos
+{"source": "the tired man dropped off", "target": "grande hombre llevar a"}	dar una cabezada	neg
+{"source": "the priest drove away the demon", "target": "sacerdote alejar a demonio"}	alejar a, repeler a, ahuyentar a, espantar a	pos
+{"source": "their aid drove out the invaders", "target": "ayuda expulsar a invasor"}	expulsar a, echar a	pos
+{"source": "the river drops off a plateau", "target": "río llevar a meseta"}	llevar a	pos
+{"source": "the student dropped out of university", "target": "alumno abandonar universidad"}	dejar, abandonar	pos
+{"source": "my neighbour dropped over yesterday", "target": "vecino pasar se cosa"}	pasar se, dejar se caer	pos
+{"source": "his management is drumming up sales", "target": "conducción fomentar venta"}	fomentar	pos
+{"source": "the politician is drumming up controversy", "target": "político suscitar polémica"}	suscitar	pos
+{"source": "the lake dried up", "target": "lago secar"}	secar se	neg
+{"source": "the water supply dried up", "target": "suministro manguitos consumir se"}	agotar se, consumir se	pos
+{"source": "the surprised student dried up", "target": "alumno grande agotar se"}	callar se	neg
+{"source": "the man dwelled on his relationship", "target": "hombre pensar obsesivamente en parentesco"}	pensar obsesivamente en	pos
+{"source": "the teacher eased off his students a little", "target": "profesor atemperar con estudiante"}	aflojar con, moderar se con, aliviar a	neg
+{"source": "the boss eased up on his employees", "target": "gerente tratar mejor a empleado"}	tratar mejor a	pos
+{"source": "water ate away the stone in the caves", "target": "agua roer hueso en caverna"}	erosionar	neg
+{"source": "the family ate in last night", "target": "familia cenar en casa noche"}	cenar en casa	pos
+{"source": "heat ate up your fat reserve", "target": "calor consumir reserva adiposo"}	consumir	pos
+{"source": "the unemployed man ate into his savings", "target": "desempleado hombre comer se ahorro"}	comer se	pos
+{"source": "the students ate out last night", "target": "estudiante salir a cenar noche"}	cenar fuera, salir a cenar	pos
+{"source": "the old car eats up petrol", "target": "coche viejo consumir gasolina"}	chupar, devorar, tragar	neg
+{"source": "the hungry boy ate up his dinner", "target": "hambriento chico acabar cena"}	comer se, acabar, disfrutar	pos
+{"source": "the boy egged on his team", "target": "chico animar a equipo"}	animar a	pos
+{"source": "the scientists embarked on a new project", "target": "científico embarcar se en nuevo proyecto"}	embarcar se en, lanzar se a	pos
+{"source": "the man embarked on a new challenge", "target": "hombre embarcar nuevo desafío"}	aventurar se	neg
+{"source": "the woman emptied out the drawer", "target": "mujer acabar con cajón"}	vaciar	neg
+{"source": "the park emptied out at nightfall", "target": "parque agotar a anochecer"}	vaciar se	neg
+{"source": "the drunk man emptied out the wine bottle", "target": "hombre de bolo vaciar botella de vino"}	terminar se, acabar, vaciar	pos
+{"source": "the concert ended off the weekend’s activities", "target": "concierto terminar actividad"}	poner fin a	neg
+{"source": "the backpacker ended up in my house", "target": "mochilero acabar en casa"}	acabar en, terminar en, llegar a	pos
+{"source": "the athletes ended up exhausted", "target": "atleta terminar"}	terminar, acabar	pos
+{"source": "the man ended up with his wife", "target": "hombre terminar mujer"}	terminar con	neg
+{"source": "the woman ended up with the prize", "target": "mujer terminar con cosa"}	quedar se con	neg
+{"source": "the man engaged in horticulture", "target": "hombre hacer horticultura"}	dedicar se a	neg
+{"source": "the woman entered into charity work", "target": "mujer participar en obra caridad"}	involucrar se en, participar en	pos
+{"source": "the two tests evened up the standard", "target": "prueba nivelar estándar"}	igualar, nivelar	pos
+{"source": "the results evened up", "target": "resultado igualar"}	igualar se, nivelar se	neg
+{"source": "the violator faced up to two years of prison", "target": "infractor enfrentar se a curso de penal"}	enfrentar se a, hacer frente a	pos
+{"source": "the man faced up to his past", "target": "hombre enfrentar pasado"}	afrontar, enfrentar se a	neg
+{"source": "the price of the hotel factored in breakfast", "target": "precio de hotel incluir desayuno"}	incluir	pos
+{"source": "this disagreement factored in his decision", "target": "desacuerdo incluir resolución"}	tener en cuenta, considerar	neg
+{"source": "daylight faded away", "target": "horas esfumar se"}	difuminar se, atenuar se, palidecer, disipar se, desvanecer se, esfumar se, desaparecer, perder se, desdibujar se	pos
+{"source": "the students fell about laughing", "target": "alumno partir se de risa reír"}	partir se de risa, morir se de risa	pos
+{"source": "cheap shoes fall apart", "target": "zapato panfletario derrumbar se"}	desarmar se, deshacer se, romper se, quebrar se	neg
+{"source": "the victim fell apart", "target": "víctima quebrar se"}	derrumbar se, desmoronar se	neg
+{"source": "regional unemployment fell away last year", "target": "regional paro disminuir"}	disminuir, decrecer, menguar, decaer	pos
+{"source": "the worries of the man fell away", "target": "preocupación de hombre desaparecer"}	disipar se, desaparecer	pos
+{"source": "the students fell back on their teacher", "target": "estudiante recurrir a maestro"}	apoyar se en, recurrir a	pos
+{"source": "the boy fell back on his parents’ money", "target": "chico apoyar se en grande negocio"}	echar mano de, recurrir a 	neg
+{"source": "the army fell back", "target": "ejército retirar se"}	retirar se, retroceder	pos
+{"source": "the slowest runners fell behind", "target": "tardo corredor quedar se atrás"}	atrasar se, retrasar se, quedar se atrás, rezagar se	pos
+{"source": "the old man fell down", "target": "hombre viejo caer"}	caer se	neg
+{"source": "the building fell down", "target": ""}	derrumbar se, caer, hundir se, venir se abajo	neg
+{"source": "the government fell down", "target": "gobierno caer"}	fallar, fracasar	neg
+{"source": "the man fell for his co-worker", "target": "hombre creer se colaborador"}	colar se por, morir se por	neg
+{"source": "the boy fell for the joke", "target": "chico creer se talla"}	creer se	pos
+{"source": "the boy fell in with a bad crowd", "target": "chico encontrar se con multitud malo"}	juntar se con	neg
+{"source": "the students fell in with the plan", "target": "alumno aprobar proyecto"}	aceptar	neg
+{"source": "the soldiers fell in line", "target": "guerrero formar línea"}	formar	pos
+{"source": "the old roof fell in", "target": "rancio techo formar"}	colapsar, derrumbar se, caer se	neg
+{"source": "the book falls into this category", "target": "libro adquirir categoría"}	entrar en, encajar en	neg
+{"source": "the dog fell into the hole", "target": "perro caer en agujero"}	caer en, caer se en	pos
+{"source": "my button fell off", "target": "botón caer"}	caer, caer se, desprender se, despegar se	pos
+{"source": "the mirror fell off the wall", "target": "espejo caer muro"}	caer se de, despegar se de	neg
+{"source": "the cushion fell off the couch", "target": "almohadilla salir se de canapé"}	deslizar se de	neg
+{"source": "the two men fell out", "target": "hombre caer se"}	pelear se, reñir	neg
+{"source": "the soldiers fell out", "target": "militar reñir"}	romper filas	neg
+{"source": "the boy fell out of bed", "target": "chico pelear se de cucha"}	caer se	neg
+{"source": "your cousin fell over the stone", "target": "primo tropezar con piedra"}	tropezar con	pos
+{"source": "his plans fell through after the elections", "target": "plan fracasar"}	fracasar, venir se abajo, quedar en nada, caer	pos
+{"source": "my father felt for the victim", "target": "padre tantear víctima"}	compadecer a, sentir lástima por	neg
+{"source": "the man felt for the light switch", "target": "hombre querer a cambio de claridad"}	tantear	neg
+{"source": "the girl feels for her best friend", "target": "chico tantear mejor compañero"}	querer a	neg
+{"source": "the sick man felt up to the party", "target": "enfermo hombre sentir se con fuerzas para partido"}	sentir se con ánimo para, sentir se con fuerza para, tener ganas de	neg
+{"source": "the soldiers fought back", "target": "militar contraatacar"}	resistir se, contraatacar, defender se	pos
+{"source": "the soldier fought off kamikaze attacks", "target": "soldado repeler ataque kamikaze"}	luchar contra, combatir, defender se de, repeler, ahuyentar	pos
+{"source": "the man figured on the additional problems", "target": "hombre contar con extra problema"}	contar con	pos
+{"source": "the teacher figured out the problem", "target": "profesor solucionar problema"}	resolver, solucionar	pos
+{"source": "the police figured out the secret code", "target": "policía descubrir grande código"}	descifrar, averiguar, determinar, descubrir	pos
+{"source": "the woman filled in for her colleague", "target": "mujer sustituir a colega"}	sustituir a, reemplazar a	pos
+{"source": "the student filled in a questionnaire", "target": "estudiante rellenar cuestionario"}	rellenar, completar	pos
+{"source": "the man filled the woman in", "target": "hombre sustituir mujer"}	poner al corriente a	neg
+{"source": "the child filled out last year", "target": "pequeño rellenar"}	engordar	neg
+{"source": "a woman filled out the ballot", "target": "mujer engordar balota"}	rellenar	neg
+{"source": "the man filled up his glass", "target": "hombre llenar vaso"}	llenar	pos
+{"source": "the prison was filled up with political prisoners", "target": "cárcel llenar se de preso político"}	llenar se de, llenar se con	pos
+{"source": "the man found out their weakness", "target": "hombre descubrir debilidad"}	descubrir, dar se cuenta de	pos
+{"source": "the teacher found something out", "target": "profesor descubrir"}	averiguar, enterar se de, descubrir	pos
+{"source": "the player finished off the season", "target": "jugador terminar temporada"}	terminar, acabar, completar	pos
+{"source": "the killer finished the man off", "target": "asesino eliminar hombre"}	eliminar a, liquidar a, rematar a	neg
+{"source": "the student finished up the project", "target": "alumno terminar proyecto"}	terminar, acabar	pos
+{"source": "the project finished up", "target": "proyecto terminar"}	terminar se, acabar se	neg
+{"source": "the girl finished with her boyfriend", "target": "chico terminar con novio"}	cortar con, acabar con, terminar con	pos
+{"source": "my cousin fired up the car", "target": "primo encender auto"}	encender, arrancar, poner en marcha	pos
+{"source": "the coach fired up the team", "target": "monitor animar a equipo"}	animar a, avivar a, enfervorizar a	pos
+{"source": "manufacturing fired up the country´s economy", "target": "costes encender economía grande"}	avivar, hacer despegar, enfervorizar se, animar	neg
+{"source": "the terrorist fired upon the police officer", "target": "terrorista disparar contra agente tombo"}	disparar contra, disparar a	pos
+{"source": "the new student fit in well", "target": "nuevo alumno congeniar pozo"}	adaptar se, encajar, congeniar	pos
+{"source": "the hotel fit in a new guest", "target": "hotel encajar nuevo visita"}	acomodar a	neg
+{"source": "the clues of the crime fit together perfectly", "target": "pista de delito encajar"}	encajar, adaptar se	pos
+{"source": "the family fixed up the old house", "target": "familia arreglar casa rancio"}	arreglar, restaurar, reparar	pos
+{"source": "the man fixed up his friends", "target": "hombre juntar a compañero"}	juntar a, emparejar a	pos
+{"source": "her enthusiasm will fizzle out", "target": "entusiasmo decaer"}	apagar se, decaer, caer, quedar en nada, morir se	pos
+{"source": "the dispute flared up", "target": "disputa estallar"}	reavivar se, encender se, agudizar se, estallar	pos
+{"source": "his arthritis flared up", "target": "artritis saltar"}	brotar, exacerbar se, inflamar se	neg
+{"source": "his temper flared up", "target": "genio estallar"}	estallar, saltar	pos
+{"source": "the boy flicked through the magazine", "target": "chico hojear revista"}	hojear	pos
+{"source": "the refugees flooded in to the country", "target": "refugiado afluir a gente"}	inundar, invadir, llegar masivamente, afluir	pos
+{"source": "complaints flooded in", "target": "denuncia aflorar"}	llover, aflorar	pos
+{"source": "the boy fobbed off his mother", "target": "chiquillo evadir a madre"}	engatusar a	neg
+{"source": "the girl focused on her studies", "target": "chico dedicar se a estudio"}	dedicar se a, centrar se en	pos
+{"source": "the boy never follows through", "target": "chico acabar"}	acabar, terminar, cumplir	pos
+{"source": "the woman followed through with her plans", "target": "mujer terminar con plano"}	terminar con, acabar con	pos
+{"source": "the doctor followed up the test results", "target": "médico estudiar resulta test"}	investigar, estudiar	pos
+{"source": "the police officer followed up the lead", "target": "agente de gendarmería investigar ventaja"}	seguir	neg
+{"source": "the student fooled around", "target": "estudiante echar un polvo"}	hacer el tonto	neg
+{"source": "the couple fooled around", "target": "pareja echar un polvo"}	echar un polvo	pos
+{"source": "the politician forged ahead", "target": "político seguir adelante"}	seguir adelante	pos
+{"source": "the council forged ahead with their plans", "target": "consejo avanzar con determinación plan"}	avanzar con determinación en	neg
+{"source": "the robbery freaked out the neighbourhood", "target": "hurto acojonar barrio"}	asustar a, dar miedo a	neg
+{"source": "the boy freaked out", "target": "chico asustar a"}	flipar	neg
+{"source": "the spider freaked the man out", "target": "araña asustar a hombre"}	dar miedo a, asustar a	pos
+{"source": "the man freaked out about the attack", "target": "hombre calentar se por ataque"}	calentar se por	pos
+{"source": "the man freshened up", "target": "hombre lavar"}	refrescar se, lavar se	neg
+{"source": "the woman freshened up the room", "target": "mujer lavar habitación"}	refrescar, lavar, airear, ventilar, orear	pos
+{"source": "the loud noise frightened away the dog", "target": "ruido fuerte espantar a can"}	espantar a	pos
+{"source": "the black death frightened off many people", "target": "aciago fallecimiento asustar a gente"}	asustar a, espantar a, ahuyentar a	pos
+{"source": "people frowned upon laziness", "target": "pueblo desaprobar pereza"}	desaprobar	pos
+{"source": "the attic functions as an office", "target": "sobrado actuar como gabinete"}	hacer las veces de	neg
+{"source": "the mother fussed over her son", "target": "madre preocupar se por hijo"}	agobiar a	neg
+{"source": "the boy fussed over silly things", "target": "chaval agobiar a cosa tonto"}	preocupar se por, alborotar se por, impacientar se por	neg
+{"source": "the students gathered around the teacher", "target": "estudiante agrupar se alrededor de maestro"}	agrupar se alrededor de	pos
+{"source": "the soldier got about two kilometres", "target": "soldado salir kilómetro"}	desplazar se, mover se, viajar	neg
+{"source": "the director got across his point of view", "target": "director expresar punto de vista"}	transmitir, hacer entender, expresar	pos
+{"source": "the best employees always get ahead", "target": "trabajador mejor adelantar"}	progresar, salir adelante	neg
+{"source": "the boy got ahead of his friend", "target": "chico ganar a compañero"}	adelantar a, ganar a	pos
+{"source": "the children get along with their parents", "target": "pequeño ir con padre"}	llevar se bien con	neg
+{"source": "the children get along", "target": "pequeño ir se"}	llevar se bien	neg
+{"source": "the plans got along with our help", "target": "plano ir con ayuda"}	progresar con, prosperar con	neg
+{"source": "the children got along without the teacher", "target": "hijo apañar se sin educador"}	apañar se sin	pos
+{"source": "the student finally got around to his homework", "target": "alumno encontrar tiempo para deber"}	encontrar tiempo para	pos
+{"source": "the tourists got around without help", "target": "turista viajar"}	mover se, desplazar se, viajar	pos
+{"source": "the students got around the teacher’s rules", "target": "estudiante viajar regla"}	evitar, sortear	neg
+{"source": "the rumour got around quickly", "target": "rumor correr"}	correr, difundir se	pos
+{"source": "the man got at his point quickly", "target": "hombre llegar a punto"}	insinuar, querer decir	neg
+{"source": "the bully got at the boy", "target": "abusón alcanzar chico"}	meter se con	neg
+{"source": "the politician got at the judge", "target": "político alcanzar juez"}	hacer se con, sobornar a	neg
+{"source": "the criminal got away with the crime", "target": "delincuente librar se de crimen"}	salir impune de, zafar se de, librar se de	pos
+{"source": "the prisoner got away", "target": "prisionero escapar"}	escapar se, fugar se, escabullir se, huir	neg
+{"source": "the woman got back at eight", "target": "mujer vengar se de"}	volver, regresar	neg
+{"source": "the woman got back her book", "target": "mujer volver libro"}	devolver	neg
+{"source": "the child got back at his friends", "target": "menor vengar se de compañero"}	vengar se de	pos
+{"source": "the man got back into yoga again", "target": "hombre recuperar el interés por yoga"}	recuperar el interés por	pos
+{"source": "the politician got behind the initiative", "target": "político apoyar iniciativa"}	respaldar, apoyar	pos
+{"source": "the man got by last month", "target": "hombre pasar"}	arreglar se, salir adelante	neg
+{"source": "the woman gets by in my language", "target": "mujer pasar en idioma"}	apañar se en	neg
+{"source": "the student got down to his work", "target": "estudiante poner se a faena"}	poner se a	pos
+{"source": "the woman got down", "target": "mujer tragar"}	bajar, bajar se, apear se	neg
+{"source": "the exam results got the boy down", "target": "resultado examen obtener chico"}	desanimar a, deprimir a	neg
+{"source": "the woman got in", "target": "mujer llegar"}	entrar, meter se, subir	neg
+{"source": "the man got in the car", "target": "hombre llegar coche"}	entrar en, subir a, meter se en	neg
+{"source": "the children got into the car", "target": "niño llegar a vehículo"}	meter se en, subir a	neg
+{"source": "the boy got into punk", "target": "chico llegar a punk"}	enganchar se a, interesar se por	neg
+{"source": "the children got off with the sweets", "target": "menor ligar con dulce"}	sustraer, birlar	neg
+{"source": "the passenger got off", "target": "pasajero salir"}	bajar se, apear se	neg
+{"source": "the man got off quickly", "target": "hombre salir"}	correr se	neg
+{"source": "the employee got on to his boss", "target": "empleado pasar a jefe"}	consultar con, consultar a	neg
+{"source": "the student got on to the next project", "target": "alumno seguir con proyecto"}	proseguir con, seguir con	pos
+{"source": "the passenger got on the train", "target": "pasajero subir se a tren"}	montar se en, subir a, subir se a	pos
+{"source": "the man got on in life", "target": "hombre ir en vida"}	triunfar, ser alguien	neg
+{"source": "the prisoner got out of jail", "target": "prisionero salir de cárcel"}	librar se de, escapar de, huir de, salir de	pos
+{"source": "the students got out of homework", "target": "estudiante salir de deber"}	eludir, zafar se de, evadir	neg
+{"source": "the man got over the flu quickly", "target": "hombre creer gripe"}	recuperar se de, mejorar de, superar	neg
+{"source": "the girl got over the bad news", "target": "chico creer malo noticia"}	aceptar, creer	pos
+{"source": "the student got round to his homework", "target": "alumno encontrar tiempo para deber"}	encontrar tiempo para	pos
+{"source": "the child got round his mother", "target": "infante convencer a madre"}	convencer a, persuadir a, ganar a	pos
+{"source": "the country got through the war", "target": "gente hablar guerra"}	superar, sobrevivir a	neg
+{"source": "the man got through to his wife", "target": "hombre localizar a mujer"}	localizar	pos
+{"source": "the family got together", "target": "familia reunir"}	reunir se, juntar se, ver se	neg
+{"source": "the employees got together", "target": "trabajador juntar"}	reunir se, juntar se	neg
+{"source": "the workers got up early", "target": "currante madrugar"}	levantar se	neg
+{"source": "the mother got the children up", "target": "madre reunir infante"}	despertar a	neg
+{"source": "the boy finally got the courage up", "target": "chico reunir coraje"}	reunir, juntar	pos
+{"source": "the boy gave away all his money", "target": "chico regalar dinero"}	donar	neg
+{"source": "the child gave away his secret", "target": "niño revelar secreto"}	revelar, confesar, descubrir, desvelar	pos
+{"source": "the shop gave away free magazines", "target": "tienda vender revista libre"}	entregar, distribuir, regalar, repartir	neg
+{"source": "the army gave in", "target": "ejército entregar"}	rendir se	neg
+{"source": "the government gave in", "target": "gobierno ceder"}	ceder	pos
+{"source": "the patient gave in to more tests", "target": "paciente someter se a prueba"}	someter se a	pos
+{"source": "the bonfire gave off a lot of heat", "target": "hoguera emitir solar de calor"}	emitir, despedir, desprender	pos
+{"source": "the house gives onto the beach", "target": "vivienda dar a playa"}	dar a	pos
+{"source": "the sun gives out light", "target": "sol dar"}	dar, emitir	pos
+{"source": "the teacher gave out the books", "target": "profesor agotar libro"}	repartir, distribuir	neg
+{"source": "his heart gave out", "target": "corazón fallar"}	fallar	pos
+{"source": "her motivation gave out", "target": "motivación anunciar"}	fallar, acabar se, agotar se	neg
+{"source": "give over fighting", "target": "dejar de combatir"}	dejar de	pos
+{"source": "the man gave up on his sister", "target": "hombre abandonar hermano"}	abandonar  a	neg
+{"source": "the man gave up on diets", "target": "hombre abandonar dieta"}	desistir de	neg
+{"source": "the man gave up meat", "target": "hombre dejar carne"}	abandonar, dejar, renunciar a	pos
+{"source": "the politician gave up his seat", "target": "político abandonar asiento"}	ceder	neg
+{"source": "the tired boy gave up", "target": "chaval grande dejar"}	desistir	neg
+{"source": "the child went about his homework", "target": "hijo hacer deber"}	poner se con, llevar a cabo, hacer, dedicar se a	pos
+{"source": "the police went after the criminal", "target": "policía perseguir a delincuente"}	ir a por, perseguir a, seguir a, ir tras de	pos
+{"source": "the politician went against his party", "target": "político ir en contra de partido"}	oponer se a	neg
+{"source": "the country went ahead with elections", "target": "gente proceder cosa"}	seguir con, seguir adelante con	neg
+{"source": "the boy went ahead", "target": "chico avanzar"}	avanzar	pos
+{"source": "the man went along with the decision", "target": "hombre aceptar decisión"}	aceptar, consentir con	pos
+{"source": "the employee went along with the agreement", "target": "trabajador aceptar contrato"}	estar se acuerdo con	neg
+{"source": "the plans went along well", "target": "proyecto ir"}	ir	pos
+{"source": "the girl went along to the party", "target": "mozo pasar por cuadrilla"}	pasar por	pos
+{"source": "the wheels go around quickly", "target": "buga rodear"}	girar, rodar	neg
+{"source": "the train goes around the lake", "target": "tren circular lago"}	rodear	neg
+{"source": "the flu went around the office", "target": "gripe haber material"}	circular por	neg
+{"source": "a rumour went around the school", "target": "rumor circular colegio"}	correr por	neg
+{"source": "the man went away yesterday", "target": "hombre marchar se cosa"}	marchar se, ir se	pos
+{"source": "the girl went back on her promise", "target": "chico romper promesa"}	romper, incumplir	pos
+{"source": "the man went back", "target": "hombre volver"}	regresar, volver	pos
+{"source": "the clocks went back yesterday", "target": "reloj retrasar cosa"}	retrasar	pos
+{"source": "the boy went back to the party", "target": "chico regresar a partido"}	volver a, regresar a	pos
+{"source": "the song goes back to the sixties", "target": "canto remontar se a cosa"}	remontar se a	pos
+{"source": "the traveller went beyond the border", "target": "caminante ir más allá de frontera"}	ir más allá de	pos
+{"source": "time goes by quickly", "target": "vez pasar"}	ir se, pasar	pos
+{"source": "the hiker went by the map", "target": "excursionista seguir mapa"}	seguir	pos
+{"source": "the traveller went by plane", "target": "viajero seguir plano"}	ir en	neg
+{"source": "the soldiers passed by the village", "target": "militar pasar pueblo"}	pasar por	neg
+{"source": "the child went down with the flu", "target": "hijo coger gripe"}	pillar, coger	pos
+{"source": "the woman went down the mountain", "target": "mujer descender montaña"}	bajar, descender	pos
+{"source": "commodity prices went down", "target": "precio de mercados bajar"}	disminuir	neg
+{"source": "the woman went for the black dress", "target": "mujer gustar aciago vestido"}	elegir, decantar se por, decidir se por	neg
+{"source": "the children went for a swim", "target": "niño ir a chapuzón"}	ir a	pos
+{"source": "the man went for a book", "target": "hombre gustar libro"}	ir a por	neg
+{"source": "the house went for one million dollars", "target": "casa ir a dólar"}	vender se por, vender se a	neg
+{"source": "the woman went in", "target": "mujer entrar"}	entrar	pos
+{"source": "the teacher went into the school", "target": "profesor entrar en escuela"}	entrar en	pos
+{"source": "the woman went into engineering", "target": "mujer entrar en maquinar"}	meter se en	neg
+{"source": "the man went off with his wife", "target": "hombre salir con mujer"}	marchar se con, salir con, ir se con	pos
+{"source": "the alarm went off early", "target": "alarma sonar"}	sonar	pos
+{"source": "fresh food goes off quickly", "target": "alimento fresco sonar"}	pasar se, estropear se	neg
+{"source": "the party went off with a bang", "target": "partido marchar se con cosa"}	triunfar	neg
+{"source": "the girl went off alone", "target": "chico explotar"}	ir se, marchar se	neg
+{"source": "the boy went off his girlfriend", "target": "chico explotar novio"}	desenamorar se de	neg
+{"source": "the depressed man went on", "target": "grande hombre salir"}	seguir, continuar, aguantar	neg
+{"source": "the teenagers went out last night", "target": "adolescente salir noche"}	salir	pos
+{"source": "the electricity went out", "target": "electricidad salir"}	apagar se	neg
+{"source": "the football player went over to the new team", "target": "jugador de fútbol pasar a nuevo equipo"}	pasar se a, cambiar a, pasar a	pos
+{"source": "the teacher went over her notes", "target": "maestro repasar apunte"}	repasar, revisar	pos
+{"source": "the government went through with the new law", "target": "gobierno llevar a cabo nuevo ley"}	llevar a cabo, seguir adelante con	pos
+{"source": "the traveller went through airport security", "target": "viajero pasar por seguridad de aeropuerto"}	cruzar, pasar por	pos
+{"source": "the child went through terrible things", "target": "niño sufrir cosa terrible"}	sufrir, soportar	pos
+{"source": "the traffic went through the new tunnel", "target": "tráfico atravesar nuevo túnel"}	atravesar	pos
+{"source": "The manager went through my curriculum", "target": "responsable agotar currículo"}	revisar, repasar	neg
+{"source": "the animals went through the food", "target": "animal sufrir víveres"}	agotar, acabar con, quedar se sin	neg
+{"source": "the wardrobes go together", "target": "armario hacer juego"}	hacer juego	pos
+{"source": "the ship went under", "target": "nave fracasar"}	hundir se	neg
+{"source": "the business went under", "target": "negocio fracasar"}	fracasar	pos
+{"source": "the rate of inflation went up last year", "target": "tasa de inflación aumentar"}	aumentar, subir	pos
+{"source": "the building went up quickly", "target": "edificio levantar"}	erigir se, construir se, levantar se	neg
+{"source": "the lift went up two floors", "target": "ascensor subir piso"}	ascender	neg
+{"source": "the burning building went up quickly", "target": "edificio escozor levantar"}	incendiar se, explotar, estallar	neg
+{"source": "the child went with his parents", "target": "infante acompañar a padre"}	acompañar a, ir con, salir con	pos
+{"source": "the socks go with the shoes", "target": "calcetín ir con zapato"}	combinar con	neg
+{"source": "the man went without alcohol", "target": "hombre pasar sin alcohol"}	pasar sin, prescindir de	pos
+{"source": "the couple grew apart", "target": "matrimonio separar se"}	alejar se, distanciar se, separar se	pos
+{"source": "teenagers generally grow away from their parents", "target": "adolescente distanciar se de matriz"}	distanciar se de	pos
+{"source": "the tumour grew back quickly", "target": "tumor volver a crecer"}	volver a crecer, volver a salir	pos
+{"source": "caterpillars grow into butterflies", "target": "oruga convertir se en mariposa"}	convertir se en, transformar se en	pos
+{"source": "the boy grew into a handsome man", "target": "muchacho convertir se en gallardo hombre"}	convertir se en	pos
+{"source": "the child grew into his uniform", "target": "hijo convertir se en uniforme"}	poder usar	neg
+{"source": "the film grew out of the book", "target": "película surgir de libro"}	nacer de, surgir de	pos
+{"source": "the boy grew out of cartoons", "target": "chico perder monitos"}	perder el interés por	neg
+{"source": "the woman grew out of her small hometown", "target": "mujer perder pequeño ciudad"}	ir se de	neg
+{"source": "the child grew up", "target": "hijo nacer"}	crecer, hacer se mayor, madurar	neg
+{"source": "the company hammered out all the problems", "target": "empresa lidiar con problema"}	lidiar con	pos
+{"source": "the teacher handed round the books", "target": "maestro ofrecer libro"}	repartir, pasar, entregar	neg
+{"source": "the man handed back the watch", "target": "hombre devolver reloj"}	devolver	pos
+{"source": "the man handed down his valuable collection", "target": "hombre pasar valioso colección"}	legar	neg
+{"source": "the student handed in the assignment", "target": "estudiante presentar asignación"}	entregar, presentar	pos
+{"source": "the employee handed in his resignation", "target": "trabajador presentar dimisión"}	notificar	neg
+{"source": "the children handed on their old toys to an orphanage", "target": "hijo heredar juguete a orfanato"}	pasar	neg
+{"source": "the teacher handed out the exams", "target": "profesor dar examen"}	repartir, distribuir, dar	pos
+{"source": "the criminal handed over the weapon", "target": "delincuente entregar arma"}	entregar	pos
+{"source": "the man hung around", "target": "hombre esperar"}	esperar	pos
+{"source": "the teenagers hung around the park", "target": "adolescente juntar se en parque"}	pasear por, merodear por, estar dando vueltas por	neg
+{"source": "the shy child hung back", "target": "niño tímido quedar se atrás"}	quedar se atrás	pos
+{"source": "the distracted child hung back", "target": "distraído niño quedar se atrás"}	vacilar	neg
+{"source": "the diamond earrings hung down", "target": "pendiente diamante caer"}	colgar	neg
+{"source": "the flowers hung down in autumn", "target": "flor caer en otoño"}	marchitar se	neg
+{"source": "the student hung in all year", "target": "estudiante perseverar año"}	perseverar	pos
+{"source": "the audience hung on every word", "target": "público esperar palabra"}	poner atención a	neg
+{"source": "the tongue of the dog hung out", "target": "lengua de can tender"}	colgar	neg
+{"source": "the girl hung out with her friends", "target": "chico juntar se con amigo"}	juntar se con, salir con	pos
+{"source": "the clouds hung over the sea", "target": "nube flotar sobre mar"}	flotar sobre	pos
+{"source": "the woman hung up the telephone", "target": "mujer cortar teléfono"}	colgar	neg
+{"source": "delays hung up the project ", "target": "detención detener proyecto"}	parar, detener	pos
+{"source": "the traveller headed for the mountain", "target": "caminante dirigir se hacia montaña"}	dirigir se a, tirar para, apuntar hacia	neg
+{"source": "the family headed off", "target": "familia desviar"}	salir, ir se	neg
+{"source": "the police headed off the traffic", "target": "policía desviar tráfico"}	desviar	pos
+{"source": "the rescue team headed out", "target": "plantilla de salvataje partir"}	partir, marchar se, ir se	pos
+{"source": "the manager headead up the new project", "target": "cosa de gestor"}	liderar	neg
+{"source": "the student heard about the new director", "target": "alumno enterar se de nuevo director"}	enterar se de	pos
+{"source": "the woman heard from her brother", "target": "mujer enterar se de hermano"}	tener noticias de	neg
+{"source": "the president heard of the tragic news", "target": "presidente enterar se de trágico noticia"}	enterar se de, saber de	pos
+{"source": "the woman heard her friend out", "target": "mujer escuchar todo de compañero"}	escuchar a	neg
+{"source": "the cook heated up the sauce", "target": "cocinero calentar salsa"}	calentar	pos
+{"source": "the man helped his aunt along", "target": "hombre ayudar a tía"}	ayudar a	pos
+{"source": "the man helped his elderly parents out", "target": "hombre ayudar a mayor padre"}	ayudar a	pos
+{"source": "the soldiers hemmed in the civilians", "target": "soldado asediar a paisano"}	acorralar a, asediar a, cercar a	pos
+{"source": "the woman hid away the jewels", "target": "mujer esconder joya"}	esconder	pos
+{"source": "the criminal hid away", "target": "delincuente esconder se"}	esconder se	pos
+{"source": "the child hit his classmate back", "target": "hijo devolver el golpe a compañero de clase"}	devolver el golpe a	pos
+{"source": "the man hit on the beautiful woman", "target": "hombre seducir a mujer bello"}	seducir a	pos
+{"source": "the children hid out in the forest", "target": "pequeño ocultar se en bosque"}	ocultar se, esconder se	pos
+{"source": "the referee held the boxers back", "target": "colegiado contener púgil"}	contener a	neg
+{"source": "the employee held back information", "target": "trabajador contener información"}	retener	neg
+{"source": "the child held back tears", "target": "hijo contener llanto"}	reprimir, reprimir se, contener	pos
+{"source": "the police officer held the criminal down", "target": "agente de gendarmería tener delincuente"}	sujetar a	neg
+{"source": "the woman holds down two jobs", "target": "mujer tener trabajo"}	mantener, tener	pos
+{"source": "the politician held forth", "target": "político hablar largo y tendido"}	hablar largo y tendido	pos
+{"source": "the police held off the attackers", "target": "policía demorar agresor"}	detener a	neg
+{"source": "the child held on to the railing", "target": "crío agarrar barandilla"}	agarrar se a, aferrar se a, agarrar se de, asir se a, asir se de	neg
+{"source": "hold on a minute", "target": "esperar minuto"}	esperar	pos
+{"source": "the man held onto his pride", "target": "hombre mantener orgullo"}	conservar, mantener	pos
+{"source": "the soldiers held out", "target": "soldado resistir"}	resistir se, resistir	pos
+{"source": "the food held out", "target": "alimento durar"}	durar, aguantar	pos
+{"source": "the man held out his hand", "target": "hombre tender mano"}	tender, extender	pos
+{"source": "the government held out against the rebels", "target": "gobierno oponer se a rebelde"}	resistir ante, resistir se ante, oponer se a	pos
+{"source": "the woman held out for a miracle", "target": "mujer esperar por milagro"}	esperar por	pos
+{"source": "the organizers held over the film festival", "target": "organizador aplazar festival filme"}	aplazar, posponer	pos
+{"source": "the beam holds up the ceiling", "target": "viga sostener techo"}	sostener, soportar, sujetar, sustentar	pos
+{"source": "the computer system holds up payments", "target": "sistema informática retrasar pago"}	demorar, retrasar	pos
+{"source": "the stressed student held up well", "target": "estudiante grande sostener"}	aguantar, resistir	neg
+{"source": "the decision holds with current legislation", "target": "decisión estar de acuerdo con legislación vigente"}	concordar con, cumplir con	neg
+{"source": "the cable hooked up easily", "target": "cable conectar"}	enganchar, conectar, enganchar se, conectar se	pos
+{"source": "the couple hooked up", "target": "par conectar"}	enrollar se	neg
+{"source": "the police hunted down the gang", "target": "policía perseguir a cosa"}	cazar a, perseguir a	pos
+{"source": "the children hurried up", "target": "niño apurar a"}	dar se prisa, apresurar se	neg
+{"source": "the teacher hurried up the children", "target": "profe dar se prisa pequeño"}	apurar a	neg
+{"source": "the guest imposed on his hosts", "target": "visita imponer se a hostia"}	molestar a	neg
+{"source": "the extra work imposed on the employee", "target": "adicional profesión imponer se a trabajador"}	molestar a, incomodar a, importunar a	neg
+{"source": "the woman improved on her problem", "target": "mujer mejorar problema"}	mejorar	pos
+{"source": "the man indulged in a massage", "target": "hombre permitir se masaje"}	permitir se	pos
+{"source": "the employee insisted on a promotion", "target": "trabajador exigir promoción"}	insistir en, demandar	neg
+{"source": "the man interfered with the woman", "target": "hombre tocar mujer"}	manosear a, tocar a	neg
+{"source": "the school invested in new technology", "target": "escuela invertir en nuevo tecnología"}	invertir en, apostar fuerte por	pos
+{"source": "the man ironed out the suit", "target": "hombre resolver pleito"}	planchar	neg
+{"source": "the boss ironed out the problems", "target": "jefe solucionar problema"}	resolver, solucionar	pos
+{"source": "the man jacked in his job", "target": "hombre dejar trabajo"}	pirar se	neg
+{"source": "the man jacked off", "target": "hombre masturbar se"}	masturbar se	pos
+{"source": "the shops jacked up the price of water", "target": "tienda subir precio de manguitos"}	subir, inflar	pos
+{"source": "the paper jammed up the photocopier", "target": "periódico bloquear se fotocopiadora"}	obstruir, atascar, bloquear	pos
+{"source": "the homeowners jazzed up their house", "target": "cosa realzar casa"}	realzar	pos
+{"source": "the man jerked his girlfriend around", "target": "hombre marear la perdiz con novio"}	marear la perdiz con	pos
+{"source": "the children joined in", "target": "niño participar"}	unir se, participar, apuntar se	pos
+{"source": "the children joined up the jigsaw", "target": "hijo juntar rompecabezas"}	juntar, unir, conectar	pos
+{"source": "five new members joined up to the gym", "target": "nuevo miembro apuntar se a gimnasio"}	apuntar se a, inscribir se en	pos
+{"source": "the man joined with the team", "target": "hombre acompañar a equipo"}	acompañar a	pos
+{"source": "the child joined in with the games", "target": "hijo participar en juego"}	participar en, apuntar se a	pos
+{"source": "the woman jotted down the phone number", "target": "mujer anotar dorsal de teléfono"}	anotar, apuntar	pos
+{"source": "the child jumbled up his words", "target": "pequeño confundir palabra"}	alterar, mezclar, confundir	pos
+{"source": "the diver jumped in", "target": "buzo sumergir se en"}	tirar se, zambullir se	neg
+{"source": "the man jumped in the water", "target": "hombre meter se agua"}	meter se en, sumergir se en	neg
+{"source": "the speaker jumped in the debate", "target": "hablante meter se debate"}	involucrar se	neg
+{"source": "the child jumped into the pool", "target": "niño tirar se a piscina"}	tirar se a, meter se en	pos
+{"source": "the employee jumped into the new project", "target": "asalariado tirar se a nuevo proyecto"}	involucrar se en	neg
+{"source": "the dog jumped on the couch", "target": "perro saltar sobre canapé"}	saltar sobre	pos
+{"source": "the woman jumped up", "target": "mujer saltar"}	saltar	pos
+{"source": "the broken piece jutted out", "target": "pedazo grande sobresalir"}	sobresalir	pos
+{"source": "the broken branch jutted out from the tree", "target": "grande rama sobresalir de árbol"}	sobresalir de	pos
+{"source": "the mathematician kept at the equation", "target": "matemático seguir con ecuación"}	seguir con, perseverar con	pos
+{"source": "the dog kept away", "target": "perro mantener la distancia"}	mantener la distancia	pos
+{"source": "the man kept the money back", "target": "hombre guardar dinero"}	guardar, reservar	pos
+{"source": "the policeman kept back", "target": "policía impedir"}	mantener se lejos	neg
+{"source": "the man kept the child back", "target": "hombre guardar hijo"}	mantener lejos a	neg
+{"source": "poverty kept down the people", "target": "pobreza limitar pueblo"}	limitar a	neg
+{"source": "the supermarket kept down the prices", "target": "supermercado controlar precio"}	controlar	pos
+{"source": "the police officer kept down the criminal", "target": "agente de gendarmería controlar delincuente"}	sujetar a, reprimir a	neg
+{"source": "the man kept from smoking", "target": "hombre alejar de fumar"}	abstener se de, contener se de, aguantar se de	neg
+{"source": "the woman kept in with her neighbours", "target": "mujer mantener se en contacto vecino"}	mantener se en contacto con	neg
+{"source": "the child kept the tears in", "target": "hijo pagar llanto"}	contener, reprimir, tragar se	neg
+{"source": "the man kept on talking", "target": "hombre seguir hablar"}	seguir, persistir en, insistir en	pos
+{"source": "the police officer kept the public out", "target": "agente de gendarmería no dejar pasar a relaciones"}	impedir la entrada a	neg
+{"source": "the old woman keeled over", "target": "viejo mujer desfallecer"}	desplomar se, desfallecer	pos
+{"source": "the man kept to the diet", "target": "hombre seguir dieta"}	seguir, ajustar se a, mantener	pos
+{"source": "the child kept to the footpath", "target": "hijo seguir acera"}	mantener se en, permanecer en	neg
+{"source": "the father kept up with the child", "target": "padre seguir pequeño"}	mantener el ritmo de	neg
+{"source": "the politician kept up with the news", "target": "político seguir noticia"}	estar al tanto de	neg
+{"source": "the man kept up his hobbies", "target": "hombre seguir hobby"}	mantener, seguir con	neg
+{"source": "the marathon runner kept up", "target": "corredor de maratón seguir"}	aguantar el ritmo, mantener el ritmo	neg
+{"source": "the woman keyed in the code", "target": "mujer teclear clave"}	teclear	pos
+{"source": "the student kicked against the class structure", "target": "estudiante oponer se a estructura estamento"}	oponer se a	pos
+{"source": "the manager kicked around the idea", "target": "director proponer idea"}	proponer	pos
+{"source": "football season kicked off early", "target": "temporada balompié comenzar"}	arrancar, empezar, comenzar, inaugurar se, iniciar se	pos
+{"source": "the boy kicked over the bin", "target": "chico patear cubo"}	patear	pos
+{"source": "the teacher kicked the student out", "target": "profesor expulsar a alumno"}	echar a, expulsar a	pos
+{"source": "the boy kidded around", "target": "chaval joder"}	bromear, corretear	neg
+{"source": "the hunter killed off the animals", "target": "cazador exterminar animal"}	exterminar a, matar a	pos
+{"source": "the man kneeled down", "target": "hombre arrodillar se"}	arrodillar se	pos
+{"source": "the man knocked about his wife", "target": "hombre maltratar mujer"}	golpear a, pegar a, maltratar a	neg
+{"source": "the employees knocked about the idea", "target": "trabajador considerar noción"}	considerar	pos
+{"source": "the children knocked the boy around", "target": "niño golpear chico"}	machacar a, golpear a	neg
+{"source": "the women knocked around the idea", "target": "mujer considerar idea"}	debatir, deliberar, considerar, discutir	pos
+{"source": "the news knocked the man back", "target": "noticia bloquear hombre"}	bloquear a	neg
+{"source": "the man knocked back the drinks", "target": "hombre sacar a bebida"}	mamar se, bajar se	neg
+{"source": "the house knocked the man back one million dollars", "target": "casa sacar a hombre dólar"}	sacar a	pos
+{"source": "the council knocked down the building", "target": "consejo derribar edificio"}	derribar, demoler	pos
+{"source": "the shop knocked down the prices", "target": "tienda abaratar precio"}	abaratar, recortar, liquidar, bajar	pos
+{"source": "the car knocked down the man", "target": "coche tirar hombre"}	atropellar a	neg
+{"source": "the child knocked down the game", "target": "pequeño abaratar chico"}	tirar	neg
+{"source": "the man knocked off his work", "target": "hombre salir trabajo"}	acabar, terminar	neg
+{"source": "the company knocks off designer handbags", "target": "empresa acabar bolso de ropa"}	copiar	neg
+{"source": "the employees knocked off early", "target": "trabajador salir"}	salir, pirar se	pos
+{"source": "the boxer knocked out his opponent", "target": "púgil tumbar adversario"}	noquear a, tumbar a	pos
+{"source": "the van knocked over the pedestrian", "target": "camioneta atropellar peatón"}	arrollar a, atropellar a	neg
+{"source": "the child knocked over the vase", "target": "hijo tirar jarrón"}	volcar, tirar, tumbar	pos
+{"source": "the student knocked together an essay", "target": "estudiante hacer de prisa ensayo"}	hacer de prisa, hacer rápidamente	pos
+{"source": "the man lashed out", "target": "hombre insolentar se"}	atacar	neg
+{"source": "the woman laughed off the crazy suggestion", "target": "mujer reír se ante loco sugerencia"}	reír se ante, reír se de, tomar se a risa	pos
+{"source": "the man launched into the project", "target": "hombre lanzar se de lleno a proyecto"}	lanzar se de lleno a	pos
+{"source": "the man laid aside his plans", "target": "hombre aparcar plano"}	aparcar, posponer, dejar de lado	pos
+{"source": "the soldiers laid down their arms", "target": "soldado poner cosa"}	rendir se, deponer las armas	neg
+{"source": "the government laid down the law", "target": "gobierno poner ley"}	establecer, imponer	neg
+{"source": "the child lay down", "target": "menor echar se"}	echar se, tumbar se, acostar se	pos
+{"source": "farmers lay in hay", "target": "labrador radicar heno"}	almacenar	neg
+{"source": "the man laid into his brother", "target": "hombre atacar hermano"}	atacar a	neg
+{"source": "the company laid off the employees", "target": "empresa despedir a trabajador"}	prescindir de, despedir a, echar a	pos
+{"source": "the stylist laid out the clothes", "target": "estilista tender ropa"}	componer, disponer, ordenar, colocar	neg
+{"source": "the man laid out some money", "target": "hombre tender moneda"}	desembolsar	neg
+{"source": "the government laid out the budget", "target": "gobierno ordenar presupuesto"}	exponer	neg
+{"source": "the boxer laid out his opponent", "target": "púgil disponer contrario"}	noquear	neg
+{"source": "the committee laid over the meeting", "target": "comité descansar junta"}	posponer	neg
+{"source": "the army laid up extra supplies", "target": "ejército almacenar adicional suministro"}	almacenar	pos
+{"source": "the students lazed around", "target": "estudiante vaguear"}	holgazanear	neg
+{"source": "the interview led on to a job", "target": "entrevista llevar a oficio"}	llevar a, traer consigo, suponer	pos
+{"source": "intensive research led up to the breakthrough", "target": ""}	llevar a, conducir a 	neg
+{"source": "the research leads up to the logical conclusion", "target": "cosa preparar término lógico"}	llevar a, conducir a	neg
+{"source": "the student learned off the rules", "target": "estudiante aprender de memoria regla"}	aprender de memoria	pos
+{"source": "leave off smoking", "target": "acabar ahumar"}	dejar de, parar de	neg
+{"source": "the contract left out the company name", "target": "contrato obviar nombre de compañía"}	omitir, excluir, obviar	pos
+{"source": "the boy let his parents down", "target": "chaval tirar padre"}	decepcionar a	neg
+{"source": "the fireman let down the ladder", "target": "bombero bajar escalerilla"}	tirar	neg
+{"source": "the dressmaker let down the hem", "target": "modista tirar bajo"}	alargar	neg
+{"source": "the mechanic let down the tyres", "target": "mecánico bajar neumático"}	desinflar	neg
+{"source": "the man let in the carpenter", "target": "hombre dejar entrar ebanista"}	dejar entrar a	neg
+{"source": "the man let off the dogs", "target": "hombre dejar perro"}	dejar en libertad a, liberar a, soltar a	neg
+{"source": "the man let on the secret", "target": "hombre decir secreto"}	revelar, contar, descubrir	neg
+{"source": "the children let out the dogs", "target": "hijo decir perro"}	dejar salir a, hacer salir a, soltar a	neg
+{"source": "the guards let out the prisoners", "target": "guardia decir preso"}	liberar a	neg
+{"source": "the dressmaker let out the dress", "target": "costurera alquilar vestido"}	agrandar	neg
+{"source": "the child let out the secret", "target": "hijo decir secreto"}	revelar, escupir	neg
+{"source": "the man let out a scream", "target": "hombre decir grito"}	dejar escapar, soltar	neg
+{"source": "the storm let up", "target": "tormenta parar"}	parar, aflojar	pos
+{"source": "the employer levelled with the employee", "target": "empresario sincerar se con trabajador"}	sincerar se con	pos
+{"source": "the child lay down", "target": "menor echar se"}	acostar se, tumbar se, echar se	pos
+{"source": "the man lifted up the painting", "target": "hombre subir pintura"}	alzar, elevar, levantar, subir	pos
+{"source": "the stressed man lightened up", "target": "grande hombre relajar se"}	relajar se	pos
+{"source": "the man lined up the paintings", "target": "hombre programar pintura"}	alinear	neg
+{"source": "the teacher lined up the new events", "target": "maestro programar nuevo acontecimiento"}	organizar, programar	pos
+{"source": "the girl lives for her family", "target": "muchacho vivir para familia"}	vivir para	pos
+{"source": "the man lives off his parents", "target": "hombre vivir de padre"}	vivir de	pos
+{"source": "the man lives on his savings", "target": "hombre pasar ahorro"}	mantener se, sostener se, vivir de	neg
+{"source": "her memory lives on", "target": "recuerdo perdurar"}	perdurar, pervivir, sobrevivir	pos
+{"source": "the sisters live together", "target": "hermano cohabitar"}	convivir, vivir juntos	neg
+{"source": "the concert lived up to the man´s expectations", "target": "concierto igualar grande expectativa"}	igualar	pos
+{"source": "the man lived with his wife", "target": "hombre vivir con mujer"}	convivir con, vivir con	pos
+{"source": "the woman lived with her decision", "target": "mujer vivir con decisión"}	sobrellevar	neg
+{"source": "the police locked up the criminal", "target": "policía encerrar delincuente"}	enchironar a, encerrar a	neg
+{"source": "the woman longed for help", "target": "mujer desear ayuda"}	ansiar, desear, anhelar	pos
+{"source": "the man logged in", "target": "hombre iniciar sesión"}	iniciar sesión, abrir sesión	pos
+{"source": "the woman logged on", "target": "mujer conectar se"}	conectar se, iniciar sesión	pos
+{"source": "the worker logged onto the website", "target": "obrero entrar en web"}	entrar en, acceder a	pos
+{"source": "the man logged off", "target": "hombre finalizar sesión"}	cerrar sesión, finalizar sesión	pos
+{"source": "the woman logged out", "target": "mujer desloguear se"}	desloguear se, cerrar sesión	pos
+{"source": "the secretary looked after the paperwork", "target": "ministro cuidar papeleo"}	velar por, ocupar se de, encargar se de	neg
+{"source": "a doctor looks after the sick", "target": "médico atender"}	cuidar de, cuidar a	neg
+{"source": "the marketing department looks after advertising", "target": "departamento grande cuidar anunciar"}	atender, ocupar se de 	neg
+{"source": "the undergraduate looked ahead", "target": "cosa mirar adelante"}	mirar hacia adelante	neg
+{"source": "the man looked at the painting", "target": "hombre mirar pintura"}	mirar	pos
+{"source": "the old man looked back", "target": "hombre viejo mirar atrás"}	rememorar	neg
+{"source": "the old woman looked back on her past", "target": "viejo mujer recordar pasado"}	recordar	pos
+{"source": "the mountain climber looked down on the village", "target": "alpinista monte vislumbrar pueblo"}	otear, vislumbrar	pos
+{"source": "the man looked down on immigrants", "target": "hombre vislumbrar inmigrante"}	menospreciar a, despreciar a	neg
+{"source": "the student looked for the book", "target": "estudiante buscar libro"}	buscar	pos
+{"source": "the man looked forward to the visit", "target": "hombre anhelar visita"}	ansiar, anhelar	pos
+{"source": "the woman looked in on the church", "target": "mujer pasar por iglesia"}	pasar por	pos
+{"source": "the police looked into the complaint", "target": "policía investigar denuncia"}	investigar, revisar, examinar	pos
+{"source": "the scientists looked into the findings", "target": "científico estudiar descubrimiento"}	estudiar, evaluar, examinar, investigar	pos
+{"source": "the woman looked on the painting", "target": "mujer considerar pintura"}	mirar, observar, considerar	pos
+{"source": "the house looks onto the lake", "target": "casa dar a lago"}	dar a	pos
+{"source": "the man looked out for dangers", "target": "hombre esperar peligro"}	vigilar	neg
+{"source": "the girl looked out for her younger brother", "target": "chico esperar hermano joven"}	cuidar a, ocupar se de, cuidar a	neg
+{"source": "the student looked over his essay", "target": "estudiante repasar ensayo"}	inspeccionar, repasar, mirar por encima	pos
+{"source": "the teacher looked round the room", "target": "maestro mirar cuarto"}	mirar alrededor de	neg
+{"source": "the detective looked round the crime scene", "target": "detective visitar escena delito"}	registrar, reconocer, chequear	neg
+{"source": "the child looked through the window", "target": "pequeño mirar por ventana"}	mirar por	pos
+{"source": "the librarian looked through the books", "target": "bibliotecario revisar libro"}	buscar entre, revisar, registrar entre, ojear	pos
+{"source": "the employee looked to his boss", "target": "trabajador contar con jefe"}	volver se hacia, mirar a, recurrir a	neg
+{"source": "the students looked up to their teacher", "target": "alumno respetar maestro"}	admirar a, respetar a	neg
+{"source": "the man looked up the best restaurant", "target": "hombre buscar mejor restaurante"}	buscar	pos
+{"source": "his life looked up", "target": "vida mejorar"}	mejorar	pos
+{"source": "the students lost out", "target": "estudiante salir perdiendo"}	salir perdiendo, perder	pos
+{"source": "the company mailed out the samples", "target": "compañía despachar muestra"}	despachar, enviar, enviar por correo	pos
+{"source": "the student majored in law", "target": "estudiante especializar se en ley"}	especializar se en	pos
+{"source": "the girls made for the city", "target": "chico crear ciudad"}	dirigir se hacia	neg
+{"source": "chocolate makes for happiness", "target": "chocolate crear dicha"}	conducir a, dar lugar a	neg
+{"source": "the criminal made off", "target": "delincuente huir"}	escapar, huir, escapar se	pos
+{"source": "the criminal made off with the money", "target": "delincuente llevar se dinero"}	escapar con, robar	neg
+{"source": "the couple made out", "target": "pareja hacer"}	liar se	neg
+{"source": "the decorator made over the house", "target": "decorador convertir casa"}	redecorar, remodelar, renovar, transformar	neg
+{"source": "the boy made up for his bad behaviour", "target": "chico reparar proceder malo"}	compensar, reparar	pos
+{"source": "his beauty makes up for its small size", "target": "belleza superar pequeño tamaño"}	superar, compensar	pos
+{"source": "the fans made up to the actress", "target": "fan pagar actor"}	congraciar se con, halagar a	neg
+{"source": "the child made up the story", "target": "niño inventar historia"}	inventar	pos
+{"source": "the girl made up her face", "target": "chico hacer cara"}	maquillar se	neg
+{"source": "the girl made up the sandwich", "target": "chico hacer bocata"}	preparar, hacer	pos
+{"source": "engineers make up the company", "target": "ingeniero montar empresa"}	formar, armar, montar, constituir	pos
+{"source": "the couple made up", "target": "pareja hacer"}	reconciliar se	neg
+{"source": "the teacher mapped out the school tour", "target": "maestro planear gira escuela"}	planear, planificar	pos
+{"source": "the teacher marked down the exam results", "target": "profesor anotar resultado de examen"}	anotar, apuntar	pos
+{"source": "the shop marked down the old shoes", "target": "tienda anotar viejo zapato"}	rebajar	neg
+{"source": "the trainer marked off the football pitch", "target": "entrenador distinguir tono de quinielas"}	delimitar	neg
+{"source": "the cat marked out its territory", "target": "gato marcar territorio"}	marcar, señalar	pos
+{"source": "the employee marked up the document", "target": "trabajador marcar documento"}	marcar	pos
+{"source": "the shop marked up the prices", "target": "tienda marcar precio"}	subir	neg
+{"source": "the woman matched up her earrings", "target": "mujer emparejar pendiente"}	emparejar, hacer coincidir	pos
+{"source": "the profile of the man matched up the profile of the woman", "target": "perfil de hombre hacer coincidir perfil de mujer"}	coincidir con, comparar se con	neg
+{"source": "the best player matched up to the new team", "target": "mejor jugador competir nuevo equipo"}	competir en	neg
+{"source": "the architect measured up the building", "target": "arquitecto servir inmueble"}	medir	neg
+{"source": "the boss measured up the employee", "target": "jefe evaluar trabajador"}	evaluar	pos
+{"source": "the supplies measured up", "target": "suministro servir"}	servir	pos
+{"source": "the exam nagged away at the student", "target": "examen atormentar estudiante"}	preocupar a, atormentar a, fastidiar a	neg
+{"source": "the carpenter nailed down the flooring", "target": "ebanista precisar suelo"}	clavar	neg
+{"source": "the accountant nailed down the figures", "target": "contable clavar figura"}	determinar, precisar, detallar	neg
+{"source": "the scientist narrowed down the theories", "target": "científico reducir teoría"}	reducir, restringir	pos
+{"source": "the mouse nibbled away at the cheese", "target": "ratón mordisquear queso"}	mordisquear	pos
+{"source": "the dressmaker nipped off the extra material", "target": "costurera recoger material adicional"}	recoger, coger, sacar, quitar	pos
+{"source": "the boy nipped off", "target": "chico salir"}	salir, ir corriendo	pos
+{"source": "the woman nodded off", "target": "mujer dormir se"}	cabecear	neg
+{"source": "the inspector nosed around", "target": "revisor meter se"}	husmear, fisgonear, meter se, fisgar	pos
+{"source": "the man objected to the fine", "target": "hombre oponer se a"}	objetar, oponer se a	pos
+{"source": "the woman opened out the table", "target": "mujer abrir tabla"}	desplegar, abrir	pos
+{"source": "the sitting room opens out onto the pool", "target": "cuarto grande dar a jagüel"}	dar a	pos
+{"source": "the sitting room opens out to the pool", "target": "habitación grande abrir se a jagüel"}	abrir se a	pos
+{"source": "the victim opened up", "target": "víctima abrir"}	abrir se, sincerar se	neg
+{"source": "the victim opened up to the psychologist", "target": "víctima abrir a psicólogo"}	confiar se	neg
+{"source": "the man opened up the door", "target": "hombre abrir puerta"}	abrir	pos
+{"source": "the victim passed away", "target": "víctima morir"}	ir se, morir, fallecer, expirar	pos
+{"source": "the bus passed by the town", "target": "autobús pasar por localidad"}	pasar por	pos
+{"source": "the pedestrians passed by the beggar", "target": "peatón pasar cosa"}	ignorar	neg
+{"source": "the man passed down his property", "target": "hombre pasar finca"}	legar	neg
+{"source": "the teacher passed down good values", "target": "profesor transmitir mejor valía"}	transmitir	pos
+{"source": "the woman passed for her daughter", "target": "mujer pasar por hijo"}	pasar por	pos
+{"source": "the parade passed off", "target": "desfile pasar"}	pasar	pos
+{"source": "the man passed off as an expert", "target": "hombre pasar"}	hacer se pasar	neg
+{"source": "the student passed on the book", "target": "alumno dejar libro"}	pasar	neg
+{"source": "the man passed on his belongings", "target": "hombre dar pertenencias"}	dejar	neg
+{"source": "the boy quarreled with the teacher", "target": "muchacho discutir con maestro"}	discutir con, pelear se con	pos
+{"source": "the fans queued up", "target": "fan hacer cola"}	hacer cola	pos
+{"source": "the teacher quietened down the students", "target": "docente acallar alumno"}	calmar a, tranquilizar a	neg
+{"source": "the singer raked in money", "target": "vocalista amasar dinero"}	amasar	pos
+{"source": "the people rallied around the campaign", "target": "pueblo concentrar"}	solidarizar se con	neg
+{"source": "the teacher reached out to the student", "target": "maestro llegar a a estudiante"}	contactar con, localizar a	neg
+{"source": "the president read out the news", "target": "presidente amonestar noticia"}	leer en voz alta	neg
+{"source": "the student read up on the theory", "target": "alumno estudiar teoría"}	investigar, estudiar	pos
+{"source": "the doctor referred to his notes", "target": "médico consultar apunte"}	consultar	pos
+{"source": "the email refers to the problem", "target": "mail referir se a problema"}	tratar de, referir se a	pos
+{"source": "the woman saved up the deposit", "target": "mujer guardar sedimento"}	ahorrar	neg
+{"source": "the boy saved up the chocolate", "target": "chico ahorrar chocolate"}	guardar, acumular	neg
+{"source": "the student screwed up the exam", "target": "estudiante fregar examen"}	meter la pata en, cagar la en	neg
+{"source": "the employee screwed up", "target": "trabajador arruinar"}	cagar la, meter la pata	neg
+{"source": "the police sealed off the crime scene", "target": "policía acordonar escena delito"}	acordonar	pos
+{"source": "the employee saw about the job", "target": "empleado pensar trabajo"}	considerar	neg
+{"source": "the teacher saw about the exam", "target": "profesor pensar examen"}	encargar se de	neg
+{"source": "the tennis player saw off the opponent", "target": "jugador tenis correr a adversario"}	correr a	pos
+{"source": "the man saw off the woman", "target": "hombre correr a mujer"}	despedir a	neg
+{"source": "the woman saw through the window", "target": "mujer alcanzar ventana"}	ver a través de	neg
+{"source": "the teacher saw through the excuses", "target": "profesor alcanzar excusa"}	calar, adivinar la intención de	neg
+{"source": "the teacher saw to the student", "target": "maestro encargar se de estudiante"}	encargar se de, ocupar se de	pos
+{"source": "the storm tailed off", "target": "tormenta apagar se"}	apagar se, remitir, ir disminuyendo	pos
+{"source": "the girl takes after the family", "target": "chico salir a familia"}	aparecer se a, asemejar se a, salir a	pos
+{"source": "the police took after the robbers", "target": "policía perseguir ladrón"}	perseguir a	neg
+{"source": "the mechanic took apart the engine", "target": "mecánico desmontar motor"}	desmontar, desarmar, deshacer	pos
+{"source": "the teacher took aside the student", "target": "profe apartar a estudiante"}	llevar aparte a, apartar a	pos
+{"source": "the police took away the money", "target": "policía sacar dinero"}	quitar, requisar, confiscar	neg
+{"source": "the man took away the animal", "target": "hombre llevar animal"}	sacar a, llevar se a	neg
+{"source": "the woman took back the insult", "target": "mujer reclamar insulto"}	retirar	neg
+{"source": "the tax office took back the money", "target": "material gravamen recuperar dinero"}	recuperar, recobrar, reclamar	pos
+{"source": "the school took back the student", "target": "escuela recuperar estudiante"}	readmitir a	neg
+{"source": "the man took care", "target": "hombre hacer cuidado"}	tener cuidado	neg
+{"source": "the fans urged on the tennis player", "target": "fan alentar jugador de tenis"}	instar a, alentar, animar	pos
+{"source": "the man uses up the money", "target": "hombre gastar dinero"}	gastar	pos
+{"source": "the man ushered in the president", "target": "hombre dar lugar a presidente"}	escoltar a, hacer pasar a	neg
+{"source": "the war ushered in the problems", "target": "guerra dar lugar a problema"}	marcar el comienzo de, marcar el inicio de, dar lugar a, abrir paso a	pos
+{"source": "the candidates vied for the job", "target": "candidato competir por trabajo"}	competir por, luchar por	pos
+{"source": "the school vouched for the student", "target": "colegio dar fe estudiante"}	responder por	neg
+{"source": "the children waited around", "target": "menor esperar"}	quedar se esperando, esperar se	neg
+{"source": "the children waited up", "target": "pequeño velar"}	esperar despierto	neg
+{"source": "the man woke up", "target": "hombre despertar"}	despertar se	neg
+{"source": "the man woke up the children", "target": "hombre despertar menor"}	despertar a, despertar	pos
+{"source": "the celebrity walked about", "target": "famoso deambular"}	pasear, deambular	pos
+{"source": "the woman walked around", "target": "mujer dar una vuelta"}	dar una vuelta	pos
+{"source": "the thief walked away with the money", "target": "ladrón robar dinero"}	llevar se, robar, ir se con 	pos
+{"source": "the woman walked away", "target": "mujer marchar se"}	salir, marchar se, ir se	pos
+{"source": "the man yanked on the chain", "target": "hombre tirar de cadena"}	tirar de	pos
+{"source": "the child yearned for holidays", "target": "hijo desear festividad"}	desear, anhelar, ansiar, morir se por	pos
+{"source": "the man yelled out", "target": "hombre gritar"}	gritar	pos
+{"source": "the teacher zeroed in on the theory", "target": "profe centrar se en teoría"}	centrar se en, concentrar se en, enfocar se en, dirigir la atención hacia	pos
+{"source": "the woman zipped up the jacket", "target": "mujer abrochar chaqueta"}	subir el cierre de, abrochar, abrochar se, subir la cremallera de	pos
+{"source": "the camera zoomed in", "target": "cámara concentrar se en"}	hacer zoom	neg
+{"source": "the teacher zoomed in on the student", "target": "maestro centrar se en estudiante"}	centrar se en, concentrar se en	pos
+
+
+Resume:
+Positives: 567
+Negatives: 553
+

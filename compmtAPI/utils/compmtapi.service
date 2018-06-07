@@ -1,0 +1,17 @@
+[Unit]
+Description=English-Spanish phrasal verbs translation service
+After=network.target
+After=syslog.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/perl -I . main.perl
+ExecReload=/bin/kill -HUP $MAINPID
+WorkingDirectory=/srv/projects/compmt/compmtAPI
+PIDFile=/var/run/compmtapi.pid
+Restart=on-failure
+User=www-data
+Group=www-data
+
+[Install]
+WantedBy=multi-user.target

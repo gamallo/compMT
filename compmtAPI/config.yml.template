@@ -1,0 +1,43 @@
+# This is the main configuration file of your Dancer2 app
+# env-related settings should go to environments/$env.yml
+# all the settings in this file will be loaded at Dancer's startup.
+
+# Your application's name
+appname: "compmt::App"
+
+# when the charset is set to UTF-8 Dancer2 will handle for you
+# all the magic of encoding and decoding. You should not care
+# about unicode within your app when this setting is set (recommended).
+charset: "UTF-8"
+
+# the logger engine to use
+# console: log messages to STDOUT (your console where you started the
+#          application server)
+# file:    log message to a file in log/
+logger: "Console"
+log_format: "[%f--%l] %m"
+
+# the log level for this environment
+# core is the lowest, it shows Dancer2's core log messages as well as yours
+# (debug, info, warning and error)
+log: "warning"
+
+# should Dancer2 consider warnings as critical errors?
+warnings: 1
+
+# should Dancer2 show a stacktrace when an 5xx error is caught?
+# if set to yes, public/500.html will be ignored and either
+# views/500.tt, 'error_template' template, or a default error template will be used.
+startup_info: 0
+show_errors:  0
+
+# listening port
+port: 4000
+
+lib: "/PATH/TO/REPO/compmtAPI/lib"
+parser: "/PATH/TO/REPO/compmtAPI/lib/compMT/translate_phr.sh"
+dicos: "/PATH/TO/REPO/compmtAPI/lib/compMT/dicos/dictionary-en-es.txt"
+stFiles: "/PATH/TO/REPO/compmtAPI/lib/resources/"
+
+# parser
+# endpoint: "http://HOST:PORT/PATH"
