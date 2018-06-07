@@ -1,0 +1,3 @@
+### input = ./tagged/...
+zcat ../tagged/test-en.txt.gz |../progs/select_words-en.perl words-mw-en > ../tagged/mw-en.txt
+
