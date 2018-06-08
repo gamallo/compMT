@@ -1,10 +1,10 @@
-# compMT
-Compositional Machine Translation
+# compMT Compositional Machine Translation
 
-* Requirements
-Dancer2: ```http://perldancer.org/```
+** Requirements
 
-Resources files (hash tables) built from corpora. Download the resource files from the following link:
+* Dancer2: ```http://perldancer.org/```
+
+* Resources files (hash tables) built from corpora. Download the resource files from the following link:
 
 ```
 htpp:fegalaz.usc.es/~gamallo/stored.tgz
