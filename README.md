@@ -1,6 +1,6 @@
-# compMT Compositional Machine Translation
+# Compositional Machine Translation (compMT)
 
-** Requirements
+## Requirements
 
 * Dancer2: ```http://perldancer.org/```
 
