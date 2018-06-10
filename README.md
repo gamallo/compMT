@@ -8,6 +8,7 @@
 
 ```
 htpp:fegalaz.usc.es/~gamallo/stored.tgz
+https://nubeusc-my.sharepoint.com/:u:/g/personal/pablo_gamallo_usc_es/EWPYeTFZCiZEnMl1HVQzK3cBJEQQ6KEId70PBh5xWVl30w?e=O1jfq2
 ```
 
 And copy them in `storeWordVectors/stored`
