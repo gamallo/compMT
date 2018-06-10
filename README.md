@@ -4,7 +4,7 @@
 
 * Dancer2: ```http://perldancer.org/```
 
-* Resources files (hash tables) built from corpora. Download the resource files from this [link](https://nubeusc-my.sharepoint.com/:u:/g/personal/pablo_gamallo_usc_es/EWPYeTFZCiZEnMl1HVQzK3cBJEQQ6KEId70PBh5xWVl30w?e=O1jfq2) And copy them in `storeWordVectors/stored`
+* Resources files (hash tables) built from corpora. Download the resource files from this [link](https://nubeusc-my.sharepoint.com/:u:/g/personal/pablo_gamallo_usc_es/EWPYeTFZCiZEnMl1HVQzK3cBJEQQ6KEId70PBh5xWVl30w?e=O1jfq2), and copy them in `storeWordVectors/stored`
 
 ```
 htpp:fegalaz.usc.es/~gamallo/stored.tgz
