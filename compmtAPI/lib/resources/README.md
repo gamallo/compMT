@@ -1,6 +1,6 @@
-# Dataset PhrasalVerbs2Spanish (`golden-en-es.csv` file)
+# PhrasalVerbs2Spanish (`golden-en-es.csv` file)
 
-## Description
+## Description of the dataset
 This dataset was built to evaluate bilingual paraphrasing systems in restricted syntactic domains. It consists of 1119 English sentences with 665 different phrasal verbs, and 1,837 Spanish translations (i.e. paraphrases) with 1,241 different Spanish verbs (including single and multiword verbs). The 665 English phrasal verbs are all very ambiguous: their average Spanish translations per verb in the bilingual lexicon is 5.25.
 
 Each row consists of an English sentence with a phrasal verb (first column), the Spanish translations or paraphrases (second column), and the Spanish verb (or phrasal verb) used to translate the English phrasal verb (third column).
