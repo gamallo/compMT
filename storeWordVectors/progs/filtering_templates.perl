@@ -1,8 +1,8 @@
 #!/usr/bin/perl
 
 
-#$th=50;
-$th=200;
+$th=20;
+#$th=200;
 $stopwords = "outgh|must|should";
 # $stopwords = "be|have|take|get|must|should";
 # $stopwords = "ser|estar|poder|tener|haber|deber";

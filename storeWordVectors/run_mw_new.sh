@@ -37,12 +37,11 @@ cat ${PHRASAL_V} | sed "s/\\r//g" | sed "s/ /@/g" |cut -f ${field} |sed "s/$/_VE
 sed "s/@@_/@_/" |sed "s/@_/_/" |grep "@"  > ${MWE}/words-mw-${LING}
 
 # tagger
-zcat ${TAGGED}/${PREFFIX}-${LING}.txt.gz | ${PROGS}/select_mw-${LING}.perl ${MWE}/words-mw-${LING} > ${TAGGED}/mw2-${LING}.txt
+zcat ${TAGGED}/${PREFFIX}-${LING}.txt.gz | ${PROGS}/select_mw-${LING}.perl ${MWE}/words-mw-${LING} > ${TAGGED}/mw-${LING}.txt
 
 # parser
-cat ${TAGGED}/mw-${LING}.txt |${PROGS}/limparTexto.x | /home/gamallo/Linguakit-master/linguakit_tunned2.perl dep $LING  | ${PROGS}/subs.perl | ${PROGS}/preps.perl | gzip -c > ${OUTPUTFILE} 
+#cat ${TAGGED}/mw-${LING}.txt |${PROGS}/limparTexto.x | /home/gamallo/Linguakit-master/linguakit_tunned2.perl $LING  | ${PROGS}/subs.perl | ${PROGS}/preps.perl | gzip -c > ${OUTPUTFILE} 
 
-
-#cat ${TAGGED}/mw-${LING}.txt | ${PROGS}/AdapterFreeling-${LING}.perl | ${PROGS}/parser-${LING}.perl | ${PROGS}/subs.perl | ${PROGS}/preps.perl | gzip -c > ${OUTPUTFILE}
+cat ${TAGGED}/mw-${LING}.txt | ${PROGS}/AdapterFreeling-${LING}.perl | ${PROGS}/parser-${LING}.perl | ${PROGS}/subs.perl | ${PROGS}/preps.perl | gzip -c > ${OUTPUTFILE}
 
 echo "fin da recollida"

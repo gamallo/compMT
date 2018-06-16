@@ -16,7 +16,7 @@ while (my $line = <FILE>) {
    $cat = "V" if ($cat && $cat eq "VERB");
    $MW{$mw} = $cat;
    
-   print STDERR "#$mw# - #$cat#\n";
+#   print STDERR "#$mw# - #$cat#\n";
 }
 
 
@@ -89,7 +89,7 @@ while (my $sent = <STDIN>) {
 
   if ($Found) {
    for ($i=0;$i<=$#Pal;$i++) {
-       print "$Pal[$i] $Lema[$i] $Tag[$i]\n" if ($Pal[$i]);
+       print "$Pal[$i] $Lema[$i] $Tag[$i]\n" if ($Pal[$i] && $Tag[$i]);
    }
    print "\n";
  }

@@ -65,6 +65,7 @@ get '/translate/:text' => sub {
     my $rankingResults = "";
     my $text           = route_parameters->get('text');
 
+    print STDERR "TEXT INPUT: #$text#\n";
     $parsed = parseText($text);
 
     plog(now() . "$appname - request: {\"source\": \"$text\"}\n");

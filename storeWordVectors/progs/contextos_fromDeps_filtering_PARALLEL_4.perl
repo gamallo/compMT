@@ -10,6 +10,8 @@ use threads;
 $file = shift(@ARGV);
 open (FILE, $file) or die "O ficheiro n�o pode ser aberto: $!\n";
 
+$LING = shift(@ARGV);
+
 while ($words = <FILE>) {
     chomp $words;
     $Words{$words}++;
@@ -202,7 +204,7 @@ print STDERR "fim leitura do ficheiro de entrada -- hashes carregados em memoria
 
 
 threads->create(sub {
-    $file = "temporal_ivan_".threads->tid();
+    $file = "temporal_${LING}_".threads->tid();
     open ($fich, ">".$file) or die "O ficheiro temporal non pode ser creado: $!\n";
     
     foreach $key (sort keys %NPN) {
@@ -249,7 +251,7 @@ threads->create(sub {
 });
 
 threads->create(sub {
-$file = "temporal_ivan_".threads->tid();
+$file = "temporal_${LING}_".threads->tid();
     open ($fich, ">".$file) or die "O ficheiro temporal non pode ser creado: $!\n";
      foreach $key (sort keys %APN) {
          ($p1, $p2, $p3) = split (/$;/o, $key);
@@ -294,7 +296,7 @@ $file = "temporal_ivan_".threads->tid();
 });
 
 threads->create(sub {
-$file = "temporal_ivan_".threads->tid();
+$file = "temporal_${LING}_".threads->tid();
     open ($fich, ">".$file) or die "O ficheiro temporal non pode ser creado: $!\n";
     
     foreach $key (sort keys %AN) {
@@ -341,7 +343,7 @@ $file = "temporal_ivan_".threads->tid();
 
 threads->create(sub {
 
-$file = "temporal_ivan_".threads->tid();
+$file = "temporal_${LING}_".threads->tid();
     open ($fich, ">".$file) or die "O ficheiro temporal non pode ser creado: $!\n";
     
      foreach $key (sort keys %VAmod) {

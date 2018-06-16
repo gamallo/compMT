@@ -24,7 +24,7 @@ while (my $line = <FILE>) {
    }
    
    $MW{$mw} = $cat;
-   print STDERR "#$mw# - #$cat#\n";
+#   print STDERR "#$mw# - #$cat#\n";
    
    $mw1="";
 
@@ -91,7 +91,7 @@ while (my $sent = <STDIN>) {
             $Tag[$i] = "NC00000" if ($MW{$mw} eq "N");
             $Tag[$i] = "VM0000" if ($MW{$mw} eq "V");
             #$i=$i+$j;
-            print STDERR "Found---> #$mw# - #$i#-#$Found{$mw}#\n";
+      ##      print STDERR "Found---> #$mw# - #$i#-#$Found{$mw}#\n";
             $i=$Found{$mw};
 	   
             last;
