@@ -26,6 +26,7 @@
 * Validate the model using the 1119 examples of the gold standard:
 
 ```curl "http://localhost:4000/validate/golden"```
+
 This creates the validation file: `./lib/resources/validation/golden_validated`
 
 
