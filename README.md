@@ -17,12 +17,14 @@
 
 ## How to use
 * Mount the Dancer service:
-```./main.perl```
+```./compmtAPI/main.perl```
 
 * Translate a sentence:
+
 ```curl "http://localhost:4000/translate/the%20man%20blew%20off%20the%20party"```
 
 * Validate the model using the 1119 examples of the gold standard:
+
 ```curl "http://localhost:4000/validate/golden"```
 This creates the validation file: `./lib/resources/validation/golden_validated`
 
